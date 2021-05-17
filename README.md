@@ -76,20 +76,18 @@ Auf dieser Grundlage überarbeitete die Bundeskanzlei im Winter 2021 die beiden 
 
 ### Expertendialog 2020
 
-* [List of Experts for Dialogue](./docs/expertendialog/Questionnare Internet Voting Switzerland, 14.02.2020.pdf)
-* [Questionnare for Expert Dialogue](./docs/expertendialog/Questionnare Internet Voting Switzerland, 14.02.2020.pdf)
-* [Summary of Questionnaire Responses](./docs/expertendialog/Summary of the Replies to the Questionnaire.pdf)
-* [Extensive Report about the Expert Dialogue](./docs/expertendialog/Summary of the Expert Dialog 2020.pdf)
-* [Management Summary Expert Dialog mit der Wissenschaft](./docs/expertendialog/Management Summary zum Dialog mit der Wissenschaft 2020.pdf)
-* [Schlussbericht Steuerungsausschuss 'Neuausrichtung und Wiederaufnahme der Versuche'](./docs/expertendialog/Neuausrichtung und Wiederaufnahme der Versuche_Schlussbericht SA VE 30.11.2020.pdf)
+* [List of Experts for Dialogue](./docs/expertendialog/Questionnare_Internet_Voting_Switzerland,_14.02.2020.pdf)
+* [Questionnare for Expert Dialogue](./docs/expertendialog/Questionnare_Internet_Voting_Switzerland,_14.02.2020.pdf)
+* [Summary of Questionnaire Responses](./docs/expertendialog/Summary_of_the_Replies_to_the_Questionnaire.pdf)
+* [Extensive Report about the Expert Dialogue](./docs/expertendialog/Summary_of_the_Expert_Dialog_2020.pdf)
+* [Management Summary Expert Dialog mit der Wissenschaft](./docs/expertendialog/Management_Summary_zum_Dialog_mit_der_Wissenschaft_2020.pdf)
+* [Schlussbericht Steuerungsausschuss 'Neuausrichtung und Wiederaufnahme der Versuche'](./docs/expertendialog/Neuausrichtung_und_Wiederaufnahme_der_Versuche_Schlussbericht_SA_VE_30.11.2020.pdf)
 
 ### Zur Zeit aktive Verordnungen
 
-*FIXME Links*
-
-*_[Bundesgesetz über die politischen Rechte](./docs/aktive-regulierung/SR_161.1_-_Bundesgesetz_vom_17._Dezember_1976_über_die_politischen_Rechte_(BPR).pdf)
-*_[Verordnung_über die politischen Rechte](./docs/aktive-regulierung/SR_161.11_-_Verordnung_vom_24._Mai_1978_über_die_politischen_Rechte_(VPR).pdf)
-*_[Verordnung der BK über die elektronische Stimmabgabe](./docs/aktive-regulierung/SR_161.116_-_Verordnung_der_BK_vom_13._Dezember_2013_über_die_elektronische_Stimmabgabe_(VEleS).pdf)
+* [Bundesgesetz über die politischen Rechte](./docs/aktive-regulierung/SR_161.1_-_Bundesgesetz_vom_17._Dezember_1976_über_die_politischen_Rechte_(BPR).pdf)
+* [Verordnung über die politischen Rechte](./docs/aktive-regulierung/SR_161.11_-_Verordnung_vom_24._Mai_1978_über_die_politischen_Rechte_(VPR).pdf)
+* [Verordnung der BK über die elektronische Stimmabgabe](./docs/aktive-regulierung/SR_161.116_-_Verordnung_der_BK_vom_13._Dezember_2013_über_die_elektronische_Stimmabgabe_(VEleS).pdf)
 * [Technische und Administrative Ausführungsbestimmungen (Anhang VEleS)](./docs/aktive-regulierung/Anhang_VEleS_V_2.0_DE.pdf)
 
 ### Weitere Unterlagen der Bundeskanzlei
