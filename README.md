@@ -76,7 +76,7 @@ Auf dieser Grundlage überarbeitete die Bundeskanzlei im Winter 2021 die beiden 
 
 ### Expertendialog 2020
 
-* [List of Experts for Dialogue](./docs/expertendialog/Questionnare_Internet_Voting_Switzerland,_14.02.2020.pdf)
+* [List of Experts for Dialogue](./docs/expertendialog/Liste_der_mandatierten_Expertinnen_und_Experten,_Juni_2020.pdf)
 * [Questionnare for Expert Dialogue](./docs/expertendialog/Questionnare_Internet_Voting_Switzerland,_14.02.2020.pdf)
 * [Summary of Questionnaire Responses](./docs/expertendialog/Summary_of_the_Replies_to_the_Questionnaire.pdf)
 * [Extensive Report about the Expert Dialogue](./docs/expertendialog/Summary_of_the_Expert_Dialog_2020.pdf)
