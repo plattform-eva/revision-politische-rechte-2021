@@ -11,15 +11,15 @@ Die Diskussion ist offen für alle. Der Gegenstand der Diskussion sind aber die 
 
 ## Allgemeine Infos zum Vernehmlassungsverfahren
 
-* *Infoseite der Bundeskanzlei / Medienmitteilung* : https://www.bk.admin.ch/bk/de/home/dokumentation/medienmitteilungen.msg-id-83257.html
-* *Text der Ankündigung auf Webseite* : [Ankuendigung-bk.admin.ch.txt](docs/vernehmlassungsverfahren-2021/Ankuendigung-bk.admin.ch.txt)
-* *Bericht* : [Bericht.pdf](docs/vernehmlassungsverfahren-2021/Bericht.pdf)
-* *Vorlage 1* (Verordnung über die Politischen Rechte VPR) : [Vorlage-1.pdf](docs/vernehmlassungsverfahren-2021/Vorlage-1.pdf)
-* *Vorlage 2* (Verordnung der BK über die elektronische Stimmabgabe VEleS + Technische Anforderungen : Angang VEleS): [Vorlage-2.pdf](docs/vernehmlassungsverfahren-2021/Vorlage-2.pdf)
-* *Adressatenliste* : [Adressatenliste.pdf](docs/vernehmlassungsverfahren-2021/Adressatenliste.pdf)
-* *Begleitschreiben Kantone* : [Begleitschreiben-Kantone.pdf](docs/vernehmlassungsverfahren-2021/Begleitschreiben-Kantone.pdf)
-* *Begleitschreiben Organisationen* : [Begleitschreiben-Organisationen.pdf](docs/vernehmlassungsverfahren-2021/Begleitschreiben-Organisationen.pdf)
-* *Antwort-Fragebogen* : [Fragebogen.pdf](docs/vernehmlassungsverfahren-2021/Fragebogen.pdf)
+* [Infoseite der Bundeskanzlei / Medienmitteilung](https://www.bk.admin.ch/bk/de/home/dokumentation/medienmitteilungen.msg-id-83257.html)
+* [Text der Ankündigung auf Webseite](docs/vernehmlassungsverfahren-2021/Ankuendigung-bk.admin.ch.txt)
+* [Bericht zu den beiden Vorlagen](docs/vernehmlassungsverfahren-2021/Bericht.pdf)
+* [Vorlage 1: Verordnung über die Politischen Rechte VPR)](docs/vernehmlassungsverfahren-2021/Vorlage-1.pdf)
+* [Vorlage 2: Verordnung der BK über die elektronische Stimmabgabe VEleS + Technische Anforderungen : Angang VEleS](docs/vernehmlassungsverfahren-2021/Vorlage-2.pdf)
+* [Adressatenliste](docs/vernehmlassungsverfahren-2021/Adressatenliste.pdf)
+* [Begleitschreiben Kantone](docs/vernehmlassungsverfahren-2021/Begleitschreiben-Kantone.pdf)
+* [Begleitschreiben Organisationen](docs/vernehmlassungsverfahren-2021/Begleitschreiben-Organisationen.pdf)
+* [Antwort-Fragebogen](docs/vernehmlassungsverfahren-2021/Fragebogen.pdf)
 
 * *Einreichefrist für Antworten* : 18. August 2021
 
