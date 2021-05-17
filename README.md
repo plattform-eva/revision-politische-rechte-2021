@@ -6,7 +6,7 @@ Die Diskussion ist offen für alle. Der Gegenstand der Diskussion sind aber die 
 
 ## Allgemeine Infos zur Diskussion
 
-* *Kernteam* : Christian Killer (@christiankiller), Melchior Limacher (@melchl), Simon Studer (@studersi), Christian Folini (@dune73)
+* *Kernteam* : Christian Killer ([@christiankiller](https://github.com/christiankiller)), Melchior Limacher ([@melchl](https://github.com/melchl)), Simon Studer ([@studersi](https://github.com/studersi)), Christian Folini ([@dune73](https://github.com/dune73))
 * *Modus* : Wir erarbeiten eine gemeinsame Antwort. Dies wird ein finaler Text sein. Er wird kolletiv geschrieben und verbessert als ob es sich um Src Code handeln würde.
 
 ## Allgemeine Infos zum Vernehmlassungsverfahren
