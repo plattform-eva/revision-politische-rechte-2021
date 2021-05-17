@@ -12,13 +12,14 @@ Die Diskussion ist offen für alle. Der Gegenstand der Diskussion sind aber die 
 ## Allgemeine Infos zum Vernehmlassungsverfahren
 
 * *Infoseite der Bundeskanzlei / Medienmitteilung* : https://www.bk.admin.ch/bk/de/home/dokumentation/medienmitteilungen.msg-id-83257.html
-* *Bericht* : FIXME
-* *Vorlage 1* : FIXME 
-* *Vorlage 2* : FIXME 
-* *Adressatenliste* : FIXME 
-* *Begleitschreiben Kantone* : FIXME 
-* *Begleitschreiben Organisationen* : FIXME 
-* *Fragebogen* : FIXME 
+* *Text der Ankündigung auf Webseite* : [Ankuendigung-bk.admin.ch.txt](docs/vernehmlassungsverfahren-2021/Ankuendigung-bk.admin.ch.txt)
+* *Bericht* : [Bericht.pdf](docs/vernehmlassungsverfahren-2021/Bericht.pdf)
+* *Vorlage 1* (Verordnung über die Politischen Rechte VPR) : [Vorlage-1.pdf](docs/vernehmlassungsverfahren-2021/Vorlage-1.pdf)
+* *Vorlage 2* (Verordnung der BK über die elektronische Stimmabgabe VEleS + Technische Anforderungen : Angang VEleS): [Vorlage-2.pdf](docs/vernehmlassungsverfahren-2021/Vorlage-2.pdf)
+* *Adressatenliste* : [Adressatenliste.pdf](docs/vernehmlassungsverfahren-2021/Adressatenliste.pdf)
+* *Begleitschreiben Kantone* : [Begleitschreiben-Kantone.pdf](docs/vernehmlassungsverfahren-2021/Begleitschreiben-Kantone.pdf)
+* *Begleitschreiben Organisationen* : [Begleitschreiben-Organisationen.pdf](docs/vernehmlassungsverfahren-2021/Begleitschreiben-Organisationen.pdf)
+* *Antwort-Fragebogen* : [Fragebogen.pdf](docs/vernehmlassungsverfahren-2021/Fragebogen.pdf)
 
 * *Einreichefrist für Antworten* : 18. August 2021
 

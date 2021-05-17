@@ -1,0 +1,23 @@
+Neuausrichtung E-Voting: Eröffnung der Vernehmlassung
+
+Bern, 28.04.2021 - An seiner Sitzung vom 28. April 2021 hat der Bundesrat entschieden, das Vernehmlassungsverfahren für die Neuausrichtung des Versuchsbetriebs der elektronischen Stimmabgabe zu eröffnen. Die Verordnung über die politischen Rechte (VPR) wird einer Teilrevision unterzogen und die Verordnung der Bundeskanzlei über die elektronische Stimmabgabe (VEleS) wird totalrevidiert. Damit soll eine neue, stabile Grundlage für den E-Voting-Versuchsbetrieb geschaffen werden.
+
+Den Auftrag zu dieser Vernehmlassungsvorlage erteilte der Bundesrat der Bundeskanzlei am 18. Dezember 2020, als er die Neuausrichtung der Versuche mit der elektronischen Stimmabgabe lancierte und deren Ziele festlegte: Die Kantone sollen in begrenztem Umfang wieder E-Voting-Versuche durchführen können; dabei sollen neue Anforderungen gelten und insbesondere sicherheitsfördernde Massnahmen umgesetzt werden. Die überarbeiteten Anforderungen werden in der Vernehmlassungsvorlage dargestellt. Die Vorlage berücksichtigt die Ziele der Neuausrichtung und die Lehren aus dem vergangenen Versuchsbetrieb. 
+
+Die Wissenschaft wurde im Rahmen eines breiten Dialogs von Anfang an in die Erarbeitung der Grundlagen für die Neuausrichtung eingebunden. Bund und Kantone verabschiedeten am 30. November 2020 einen gemeinsamen Schlussbericht mit dazugehörigem Massnahmenkatalog und sorgten für Transparenz im gesamten Prozess. Mit der Neuausrichtung soll ein kontinuierlicher Verbesserungsprozess etabliert werden. Dazu werden auch neue Instrumente wie Bug-Bounty-Programme eingesetzt, bei denen wertvolle Hinweise aus der Öffentlichkeit finanziell entschädigt werden.  
+
+So ist neu vorgeschrieben, dass nur noch vollständig verifizierbare E-Voting-Systeme zum Einsatz kommen sollen. Weiter regelt die Vernehmlassungsvorlage, dass pro Kanton maximal 30% und schweizweit maximal 10% der Stimmberechtigten an E-Voting-Versuchen teilnehmen dürfen. Vorgesehen ist überdies, dass E-Voting neben den Auslandschweizerinnen und -schweizern auch Stimmberechtigten mit einer Behinderung bevorzugt, d.h. ohne Anrechnung an die Limite, angeboten werden kann.
+
+Die Vernehmlassungsvorlage regelt im Detail, wie die ständige öffentliche Überprüfung von E-Voting-Systemen ermöglicht werden soll (Zugang zur Dokumentation, Offenlegung des Quellcodes, Publikation von Prüfberichten, Information über allfällig festgestellte Mängel, Bug-Bounty-Programme mit «legal safe harbor» für Teilnehmende, Einbindung der Wissenschaft in Weiterentwicklung der Systeme). Neu sieht die Vorlage weiter vor, dass die Einhaltung der Sicherheitsanforderungen von unabhängigen Expertinnen und Experten im Auftrag des Bundes überprüft wird.  
+
+Die Stossrichtung dieser Vernehmlassungsvorlage hat der Bundesrat schon im Dezember 2020 mit seinem Entscheid zur Neuausrichtung vorgegeben. Dies erlaubt es den verschiedenen E-Voting-Akteuren, sich mit Blick auf eine möglichst baldige Wiederaufnahme des Versuchsbetriebs auf das neue regulatorische Umfeld vorzubereiten. So bereitet die Bundeskanzlei etwa schon die Überprüfung zukünftiger E-Voting-Systeme durch unabhängige Expertinnen und Experten vor. Auch die Kantone und der Systemanbieter arbeiten bereits an der Umsetzung der Anforderungen, um die in Zukunft geltenden Auflagen für E-Voting möglichst bald erfüllen zu können. 
+
+An den rechtlichen Zuständigkeiten ändert sich mit der Revision der VPR und der VEleS nichts. Die Kantone entscheiden weiterhin selber, ob und mit welchem System sie ihren Stimmberechtigten E-Voting anbieten wollen, während der Bund den rechtlichen Rahmen setzt und Bewilligungsbehörde ist. 
+
+Die Vernehmlassung dauert bis am 18. August 2021. Die Ergebnisse werden danach dem Bundesrat unterbreitet, der über die Inkraftsetzung entscheidet. Gestützt auf die neuen Rechtsgrundlagen können die Kantone dem Bundesrat Grundbewilligungen für die Wiederaufnahme der Versuche beantragen.
+
+Adresse für Rückfragen
+
+Urs Bruderer
+urs.bruderer@bk.admin.ch
++41 58 483 99 69
