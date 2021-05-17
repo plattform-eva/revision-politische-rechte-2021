@@ -35,7 +35,7 @@ Die Diskussion ist offen für alle. Der Gegenstand der Diskussion sind aber die 
 | Verordnung über Bundeskanzlei über die elektronische Stimmabgabe (VEleS) - Vorlage 2 | Bundeskanzlei |
 | Technische und administrative Anforderungen an die elektronische Stimmabgabe (Anhang zur VEleS) - Vorlage 2 | Bundeskanzlei |
 
-In diesem Vernehmlassungsverfahren geht es um die mit Vorlage 1 respektive Vorlage 2 bezeichneten Verordnungen sowie den Anhang zur Vorlage 2. Der Bundesrat wird die die Vorlage 1 auf Vorschlag der Bundeskanzlei verabschieden und die Vorlage 2 wird der Bundeskanzler selbst in Kraft setzen. Beide Vorlagen gehen nach der Vernehmlassung also nicht mehr ins Parlament. Zwar können die zuständigen Komissionen der beiden Parlamentskammern jederzeit Auskunft verlangen, sie haben aber nur Vorschlagsrecht.
+In diesem Vernehmlassungsverfahren geht es um die mit Vorlage 1 respektive Vorlage 2 bezeichneten Verordnungen sowie den Anhang zur Vorlage 2. Der Bundesrat wird die Vorlage 1 auf Vorschlag der Bundeskanzlei verabschieden und die Vorlage 2 wird der Bundeskanzler selbst in Kraft setzen. Beide Vorlagen gehen nach der Vernehmlassung also nicht mehr ins Parlament. Zwar können die zuständigen Kommissionen der beiden Parlamentskammern jederzeit Auskunft verlangen, sie haben aber nur Vorschlagsrecht.
 
 Das bedeutet: Das Vernehmlassungsverfahren ist das einzige demokratische Mittel der Allgemeinheit, um auf diese beide Verordnungen Einfluss zu nehmen.
 
@@ -52,7 +52,7 @@ Christian Folini hat an der Usenix Enigma 2021 Konferenz einen guten Überblick 
 * [Youtube (20 min)](https://www.youtube.com/watch?v=pzfHMF3tO7A)
 * [Slides mit Timeline](https://www.slideshare.net/ChristianFolini/the-adventurous-tale-of-online-voting-in-switzerland/ChristianFolini/the-adventurous-tale-of-online-voting-in-switzerland)
 
-Nach dem Ausstieg des Systemanbieters Genf und dem einstweiligen Stop des E-Voting Systems der Post im Jahr 2019 hat der Bundesrat die Bundeskanzlei und die Kantone eine Neuausrichtung des Versuchsbetriebs E-Voting zu konzipieren. Damit verband der Bundesrat 4 Zeile:
+Nach dem Ausstieg des Systemanbieters Genf und dem einstweiligen Stop des E-Voting Systems der Post im Jahr 2019 hat der Bundesrat die Bundeskanzlei und die Kantone beauftragt, eine Neuausrichtung des Versuchsbetriebs E-Voting zu konzipieren. Damit verband der Bundesrat 4 Ziele:
 
 * Weiterentwicklung der Systeme
 * Wirksame Kontrolle und Aufsicht
