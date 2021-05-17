@@ -35,7 +35,7 @@ Die Diskussion ist offen für alle. Der Gegenstand der Diskussion sind aber die 
 | Verordnung über Bundeskanzlei über die elektronische Stimmabgabe (VEleS) - Vorlage 2 | Bundeskanzlei |
 | Technische und administrative Anforderungen an die elektronische Stimmabgabe (Anhang zur VEleS) - Vorlage 2 | Bundeskanzlei |
 
-In diesem Vernehmlassungsverfahren geht es um die mit Vorlage 1 respektive Vorlage 2 bezeichneten Verordnungen sowie den Anhang zur Vorlage 2. Der Bundesrat wird die Vorlage 1 auf Vorschlag der Bundeskanzlei verabschieden und die Vorlage 2 wird der Bundeskanzler selbst in Kraft setzen. Beide Vorlagen gehen nach der Vernehmlassung also nicht mehr ins Parlament. Zwar können die zuständigen Kommissionen der beiden Parlamentskammern jederzeit Auskunft verlangen, sie haben aber nur Vorschlagsrecht.
+In diesem Vernehmlassungsverfahren geht es um die mit Vorlage 1 respektive Vorlage 2 bezeichneten Verordnungen sowie den Anhang zur Vorlage 2. Der Bundesrat wird die die Vorlage 1 auf Vorschlag der Bundeskanzlei verabschieden und die Vorlage 2 wird der Bundeskanzler selbst in Kraft setzen. Beide Vorlagen gehen nach der Vernehmlassung also nicht mehr ins Parlament. Zwar können die zuständigen Komissionen der beiden Parlamentskammern jederzeit Auskunft verlangen, sie haben aber nur das Recht angehört zu werden.
 
 Das bedeutet: Das Vernehmlassungsverfahren ist das einzige demokratische Mittel der Allgemeinheit, um auf diese beide Verordnungen Einfluss zu nehmen.
 
@@ -52,21 +52,21 @@ Christian Folini hat an der Usenix Enigma 2021 Konferenz einen guten Überblick 
 * [Youtube (20 min)](https://www.youtube.com/watch?v=pzfHMF3tO7A)
 * [Slides mit Timeline](https://www.slideshare.net/ChristianFolini/the-adventurous-tale-of-online-voting-in-switzerland/ChristianFolini/the-adventurous-tale-of-online-voting-in-switzerland)
 
-Nach dem Ausstieg des Systemanbieters Genf und dem einstweiligen Stop des E-Voting Systems der Post im Jahr 2019 hat der Bundesrat die Bundeskanzlei und die Kantone beauftragt, eine Neuausrichtung des Versuchsbetriebs E-Voting zu konzipieren. Damit verband der Bundesrat 4 Ziele:
+Nach dem Ausstieg des Systemanbieters Genf und dem einstweiligen Stop des E-Voting Systems der Post im Jahr 2019 hat der Bundesrat die Bundeskanzlei und die Kantone eine Neuausrichtung des Versuchsbetriebs E-Voting zu konzipieren. Damit verband der Bundesrat 4 Zeile:
 
 * Weiterentwicklung der Systeme
 * Wirksame Kontrolle und Aufsicht
 * Stärkung der Transparenz und des Vertrauens
 * Stärkere Vernetzung mit der Wissenschaft
 
-Der Steuerungsausschuss Vote éelctronique (SA VE) schuf eine Unterarbeitsgruppe "Neuausrichtung und Wiederaufnahme der Versuche" und betraute sie mit der Ausarbeitung von Massnahmen, sowie deren Etappierung.
+Der Steuerungsausschuss Vote électronique (SA VE) schuf eine Unterarbeitsgruppe "Neuausrichtung und Wiederaufnahme der Versuche" und betraute sie mit der Ausarbeitung von Massnahmen, sowie deren Etappierung.
 
 Die Unterarbeitsgruppe arbeitete mit 23 in- und ausländischen Expertinnen und Experten aus Informatik, Kryptografie und Politikwissenschaften zusammen. Dies geschah in einem breit angelegten Dialog. Der Dialog wurde von Christian Folini (siehe oben) moderiert und umfasste zwei grosse Teile:
 
 * Fragebogen mit rund 60 Fragen
 * Diskussion von rund 50 strittigen Fragen auf einer Online-Plattform
 
-Die Zusammenfassung der Antworten der Fragebögen und die gemeinsame Antwort zu den auf der Online-Plattform diskutierten Fragen wurden publiziert (Expertenbericht).
+Die Zusammenfassung der Antworten der Fragebögen und die gemeinsame Antwort zu den auf der Online-Plattform diskutierten Fragen wurden publiziert (Expertenbericht). Sie sind weiter unten verlinkt.
 
 Ferner wurde im Anschluss an den Expertenbericht auch ein Schlussbericht des Steuerungsausschusses zum Expertendialog und der Neuausrichtung publiziert.
 
@@ -76,23 +76,21 @@ Auf dieser Grundlage überarbeitete die Bundeskanzlei im Winter 2021 die beiden 
 
 ### Expertendialog 2020
 
-yy*FIXME Links*
-
-* 'Liste der mandatierten Expertinnen und Experten, Juni 2020.pdf'
-* 'Questionnare Internet Voting Switzerland, 14.02.2020.pdf'
-* 'Summary of the Replies to the Questionnaire.pdf'
-* 'Summary of the Expert Dialog 2020.pdf'
-* 'Management Summary zum Dialog mit der Wissenschaft 2020.pdf'
-* 'Neuausrichtung und Wiederaufnahme der Versuche_Schlussbericht SA VE 30.11.2020.pdf'
+* [List of Experts for Dialogue](./docs/expertendialog/Questionnare Internet Voting Switzerland, 14.02.2020.pdf)
+* [Questionnare for Expert Dialogue](./docs/expertendialog/Questionnare Internet Voting Switzerland, 14.02.2020.pdf)
+* [Summary of Questionnaire Responses](./docs/expertendialog/Summary of the Replies to the Questionnaire.pdf)
+* [Extensive Report about the Expert Dialogue](./docs/expertendialog/Summary of the Expert Dialog 2020.pdf)
+* [Management Summary Expert Dialog mit der Wissenschaft](./docs/expertendialog/Management Summary zum Dialog mit der Wissenschaft 2020.pdf)
+* [Schlussbericht Steuerungsausschuss 'Neuausrichtung und Wiederaufnahme der Versuche'](./docs/expertendialog/Neuausrichtung und Wiederaufnahme der Versuche_Schlussbericht SA VE 30.11.2020.pdf)
 
 ### Zur Zeit aktive Verordnungen
 
 *FIXME Links*
 
-* 'SR 161.1 - Bundesgesetz vom 17. Dezember 1976 über die politischen Rechte (BPR).pdf'
-* 'SR 161.11 - Verordnung vom 24. Mai 1978 über die politischen Rechte (VPR).pdf'
-* 'SR 161.116 - Verordnung der BK vom 13. Dezember 2013 über die elektronische Stimmabgabe (VEleS).pdf'
-* Anhang_VEleS_V_2.0_DE.pdf
+* [Bundesgesetz über die politischen Rechte](./docs/vorherige-regulierung/SR 161.1 - Bundesgesetz vom 17. Dezember 1976 über die politischen Rechte (BPR).pdf)
+* [Verordnung über die politischen Rechte](./docs/vorherige-regulierung/SR 161.11 - Verordnung vom 24. Mai 1978 über die politischen Rechte (VPR).pdf)
+* [Verordnung der BK über die elektronische Stimmabgabe](./docs/vorherige-regulierung/SR 161.116 - Verordnung der BK vom 13. Dezember 2013 über die elektronische Stimmabgabe (VEleS).pdf)
+* [Technische und Administrative Ausführungsbestimmungen (Anhang VEleS)](./docs/vorherige-regulierung/Anhang_VEleS_V_2.0_DE.pdf)
 
 ### Weitere Unterlagen der Bundeskanzlei
 
