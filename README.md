@@ -15,7 +15,7 @@ Die Diskussion ist offen für alle. Der Gegenstand der Diskussion sind aber die 
 * [Text der Ankündigung auf Webseite](docs/vernehmlassungsverfahren-2021/Ankuendigung-bk.admin.ch.txt)
 * [Bericht zu den beiden Vorlagen](docs/vernehmlassungsverfahren-2021/Bericht.pdf)
 * [Vorlage 1: Verordnung über die Politischen Rechte VPR)](docs/vernehmlassungsverfahren-2021/Vorlage-1.pdf)
-* [Vorlage 2: Verordnung der BK über die elektronische Stimmabgabe VEleS + Technische Anforderungen : Angang VEleS](docs/vernehmlassungsverfahren-2021/Vorlage-2.pdf)
+* [Vorlage 2: Verordnung der BK über die elektronische Stimmabgabe VEleS + Anhang Technische Anforderungen](docs/vernehmlassungsverfahren-2021/Vorlage-2.pdf)
 * [Adressatenliste](docs/vernehmlassungsverfahren-2021/Adressatenliste.pdf)
 * [Begleitschreiben Kantone](docs/vernehmlassungsverfahren-2021/Begleitschreiben-Kantone.pdf)
 * [Begleitschreiben Organisationen](docs/vernehmlassungsverfahren-2021/Begleitschreiben-Organisationen.pdf)
