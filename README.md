@@ -87,10 +87,10 @@ Auf dieser Grundlage überarbeitete die Bundeskanzlei im Winter 2021 die beiden 
 
 *FIXME Links*
 
-* [Bundesgesetz über die politischen Rechte](./docs/vorherige-regulierung/SR 161.1 - Bundesgesetz vom 17. Dezember 1976 über die politischen Rechte (BPR).pdf)
-* [Verordnung über die politischen Rechte](./docs/vorherige-regulierung/SR 161.11 - Verordnung vom 24. Mai 1978 über die politischen Rechte (VPR).pdf)
-* [Verordnung der BK über die elektronische Stimmabgabe](./docs/vorherige-regulierung/SR 161.116 - Verordnung der BK vom 13. Dezember 2013 über die elektronische Stimmabgabe (VEleS).pdf)
-* [Technische und Administrative Ausführungsbestimmungen (Anhang VEleS)](./docs/vorherige-regulierung/Anhang_VEleS_V_2.0_DE.pdf)
+*_[Bundesgesetz über die politischen Rechte](./docs/aktive-regulierung/SR_161.1_-_Bundesgesetz_vom_17._Dezember_1976_über_die_politischen_Rechte_(BPR).pdf)
+*_[Verordnung_über die politischen Rechte](./docs/aktive-regulierung/SR_161.11_-_Verordnung_vom_24._Mai_1978_über_die_politischen_Rechte_(VPR).pdf)
+*_[Verordnung der BK über die elektronische Stimmabgabe](./docs/aktive-regulierung/SR_161.116_-_Verordnung_der_BK_vom_13._Dezember_2013_über_die_elektronische_Stimmabgabe_(VEleS).pdf)
+* [Technische und Administrative Ausführungsbestimmungen (Anhang VEleS)](./docs/aktive-regulierung/Anhang_VEleS_V_2.0_DE.pdf)
 
 ### Weitere Unterlagen der Bundeskanzlei
 
