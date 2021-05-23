@@ -90,6 +90,11 @@ Auf dieser Grundlage überarbeitete die Bundeskanzlei im Winter 2021 die beiden 
 * [Verordnung der BK über die elektronische Stimmabgabe](./docs/aktive-regulierung/SR_161.116_-_Verordnung_der_BK_vom_13._Dezember_2013_über_die_elektronische_Stimmabgabe_(VEleS).pdf)
 * [Technische und Administrative Ausführungsbestimmungen (Anhang VEleS)](./docs/aktive-regulierung/Anhang_VEleS_V_2.0_DE.pdf)
 
+### Gesuche um Akteneinsicht
+
+* [Dialog mit der Wissenschaft 2020: Antworten Fragebogen](./docs//gesuche-um-akteneinsicht/expertendialog/Dialog%20mit%20der%20Wissenschaft%202020_%20Antworten%20Fragebogen.pdf)
+* [Dialog mit der Wissenschaft 2020: Diskussionen auf der Internet-Plattform](./docs/gesuche-um-akteneinsicht/expertendialog/Dialog%20mit%20der%20Wissenschaft%202020_%20Diskussionen%20auf%20der%20Internet-Plattform.pdf)
+
 ### Weitere Unterlagen der Bundeskanzlei
 
 Weitere Unterlagen und Veröffentlichungen lassen sich über die Webseite der Bundeskanzlei relativ bequem erreichen. Namentlich die chronologische Auflistung der Medienmitteilung ergibt einen umfassenden Überblick über die Aktivitäten des Bundes im Bereich E-Voting.
