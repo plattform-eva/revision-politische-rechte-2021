@@ -2,7 +2,7 @@
 
 Dieses Repository dient der Diskussion und Formulierung einer Antwort zur eidgenössischen Vernehmlassung 2021/61 zur Teilrevision der Verordnung über die politischen Rechte (VPR) und der Totalrevision der Verordnung der Bundeskanzlei über die elektronische Stimmabgabe (VEleS).
 
-Die Diskussion ist offen für alle. Der Gegenstand der Diskussion sind aber die vorliegende Vernehmlassung mit ihren Verordnungen und dem Anhang. Es geht also nicht darum, ob E-Voting gut oder schlecht ist, sondern ob die vorgeschlagene Regulierung hinreichend und adäquat ist.
+Die Diskussion ist offen für alle, die an einer konstruktiven Diskussion interessiert sind. Der Gegenstand der Diskussion ist die vorliegende Vernehmlassung mit ihren Verordnungen und dem Anhang. Es geht also nicht darum, ob E-Voting gut oder schlecht ist - da sind wir selbst im Kernteam unterschiedlicher Meinung - sondern ob die vorgeschlagene Regulierung hinreichend und adäquat ist - und da glauben wir zu einer gemeinsamen Position zu kommen.
 
 ## Allgemeine Infos zur Diskussion
 
