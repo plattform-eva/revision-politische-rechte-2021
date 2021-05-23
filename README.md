@@ -85,9 +85,9 @@ Auf dieser Grundlage überarbeitete die Bundeskanzlei im Winter 2021 die beiden 
 
 ### Zur Zeit aktive Verordnungen
 
-* [Bundesgesetz über die politischen Rechte](./docs/aktive-regulierung/SR_161.1_-_Bundesgesetz_vom_17._Dezember_1976_über_die_politischen_Rechte_(BPR).pdf)
-* [Verordnung über die politischen Rechte](./docs/aktive-regulierung/SR_161.11_-_Verordnung_vom_24._Mai_1978_über_die_politischen_Rechte_(VPR).pdf)
-* [Verordnung der BK über die elektronische Stimmabgabe](./docs/aktive-regulierung/SR_161.116_-_Verordnung_der_BK_vom_13._Dezember_2013_über_die_elektronische_Stimmabgabe_(VEleS).pdf)
+* [Bundesgesetz über die politischen Rechte (BPR)](./docs/aktive-regulierung/SR_161.1_-_Bundesgesetz_vom_17._Dezember_1976_über_die_politischen_Rechte_(BPR).pdf)
+* [Verordnung über die politischen Rechte (VPR)](./docs/aktive-regulierung/SR_161.11_-_Verordnung_vom_24._Mai_1978_über_die_politischen_Rechte_(VPR).pdf)
+* [Verordnung der BK über die elektronische Stimmabgabe (VEleS)](./docs/aktive-regulierung/SR_161.116_-_Verordnung_der_BK_vom_13._Dezember_2013_über_die_elektronische_Stimmabgabe_(VEleS).pdf)
 * [Technische und Administrative Ausführungsbestimmungen (Anhang VEleS)](./docs/aktive-regulierung/Anhang_VEleS_V_2.0_DE.pdf)
 
 ### Gesuche um Akteneinsicht
