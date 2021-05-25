@@ -13,7 +13,7 @@ Die Diskussion ist offen für alle, die an einer konstruktiven Diskussion intere
 
 * [Infoseite der Bundeskanzlei / Medienmitteilung](https://www.bk.admin.ch/bk/de/home/dokumentation/medienmitteilungen.msg-id-83257.html)
 * [Text der Ankündigung auf Webseite](docs/vernehmlassungsverfahren-2021/Ankuendigung-bk.admin.ch.txt)
-* [Bericht zu den beiden Vorlagen](docs/vernehmlassungsverfahren-2021/Bericht.pdf)
+* [Bericht der Bundeskanzlei zu den beiden Vorlagen](docs/vernehmlassungsverfahren-2021/Bericht.pdf)
 * [Vorlage 1: Verordnung über die Politischen Rechte VPR)](docs/vernehmlassungsverfahren-2021/Vorlage-1.pdf)
 * [Vorlage 2: Verordnung der BK über die elektronische Stimmabgabe VEleS + Anhang Technische Anforderungen](docs/vernehmlassungsverfahren-2021/Vorlage-2.pdf)
 * [Adressatenliste](docs/vernehmlassungsverfahren-2021/Adressatenliste.pdf)
