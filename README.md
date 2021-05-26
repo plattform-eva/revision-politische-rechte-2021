@@ -1,13 +1,25 @@
 # Vernehmlassung 2021/61: Änderung der Verordnung über die politischen Rechte (VPR) und der Verordnung der BK über die elektronische Stimmabgabe (VEleS)
 
-Dieses Repository dient der Diskussion und Formulierung einer Antwort zur eidgenössischen Vernehmlassung 2021/61 zur Teilrevision der Verordnung über die politischen Rechte (VPR) und der Totalrevision der Verordnung der Bundeskanzlei über die elektronische Stimmabgabe (VEleS).
+Dieses Repository dient der Diskussion der eidgenössischen Vernehmlassung 2021/61 zur Teilrevision der Verordnung über die politischen Rechte (VPR) und der Totalrevision der Verordnung der Bundeskanzlei über die elektronische Stimmabgabe (VEleS).
 
-Die Diskussion ist offen für alle, die an einer konstruktiven Diskussion interessiert sind. Der Gegenstand der Diskussion ist die vorliegende Vernehmlassung mit ihren Verordnungen und dem Anhang. Es geht also nicht darum, ob E-Voting gut oder schlecht ist - da sind wir selbst im Kernteam unterschiedlicher Meinung - sondern ob die vorgeschlagene Regulierung hinreichend und adäquat ist - und da glauben wir zu einer gemeinsamen Position zu kommen.
+Die Diskussion ist offen für alle, die an einem konstruktiven Dialog zum Thema interessiert sind. Der Gegenstand der Diskussion ist die vorliegende Vernehmlassung mit ihren Verordnungen und dem Anhang. Es geht also nicht darum, ob E-Voting gut oder schlecht ist - da sind wir selbst im Kernteam unterschiedlicher Meinung - sondern ob die vorgeschlagene Regulierung hinreichend und adäquat ist - und da glauben wir zu einer gemeinsamen Position zu kommen. Diese gemeinsame Position wollen wir dann auch als Vernehmlassungsantwort zurückgeben.
 
-## Allgemeine Infos zur Diskussion
+## Status der Diskussion
+
+Wir publizieren regelmässig Statusmeldungen, respektive einen Newsletter:
+
+* [Newsletter #0: Der Start](https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/status-messages/status-0.md)
+
+## Trägerschaft und Ziel
 
 * *Kernteam* : Christian Killer ([@christiankiller](https://github.com/christiankiller)), Melchior Limacher ([@melchl](https://github.com/melchl)), Simon Studer ([@studersi](https://github.com/studersi)), Christian Folini ([@dune73](https://github.com/dune73))
-* *Modus* : Wir erarbeiten eine gemeinsame Antwort. Dies wird ein finaler Text sein. Er wird kolletiv geschrieben und verbessert als ob es sich um Src Code handeln würde.
+* *Modus* : Wir diskutieren die Vorlagen und erarbeiten eine gemeinsame Antwort. Dies wird ein finaler Text sein. Er wird kolletiv geschrieben und verbessert als ob es sich um Src Code handeln würde.
+
+## Zugang zur Laufenden Diskussion
+
+* FIXME
+
+
 
 ## Allgemeine Infos zum Vernehmlassungsverfahren
 
