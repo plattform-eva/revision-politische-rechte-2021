@@ -48,11 +48,11 @@ Und dann planen wir etwa einmal die Woche einen Status zu kommunizieren. Dieser 
 
 Vielen Dank für das Interesse!
 
-(in alphabetischer Reihenfolge)
+*(in alphabetischer Reihenfolge)*
 
-Christian Folini
-Christian Killer
-Melchior Limacher
-Simon Studer
+* Christian Folini
+* Christian Killer
+* Melchior Limacher
+* Simon Studer
 
 
