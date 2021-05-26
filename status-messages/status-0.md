@@ -1,6 +1,6 @@
 # Plattform EVA zum Thema E-Voting gestartet
 
-Nach dem spektakulären Abbruch der Übung E-Voting 2019, gleisen Bund und Kantone zur Zeit den Versuchsbetrieb neu auf. Dazu werden die beiden einschlägigen Verordnungen revidiert: Ende April eröffnete die Bundeskanzlei das Vernehmlassungsverfahren hiezu.  Anders als bei einer Gesetzesrevision gehen die Vorlagen aber nachher nicht an das Parlament: Verordnungen sind Sache der Verwaltung.  Umso wichtiger ist die öffentliche Diskussion.
+Nach dem spektakulären Abbruch der Übung E-Voting 2019, gleisen Bund und einzelne Kantone zur Zeit den Versuchsbetrieb neu auf. Dazu werden die beiden einschlägigen Verordnungen revidiert: Ende April eröffnete die Bundeskanzlei das Vernehmlassungsverfahren hiezu.  Anders als bei einer Gesetzesrevision gehen die Vorlagen aber nachher nicht an das Parlament: Verordnungen sind Sache der Verwaltung.  Umso wichtiger ist die öffentliche Diskussion.
 
 Denn es gibt viel zu besprechen. Die Vorlagen sind ausführlich und die technische Regulierungstiefe ist ausgesprochen tief. So tief, dass nur noch ausgesprochene Techies sich überhaupt ein genaues Bild machen können. E-Voting halt.
 
@@ -18,7 +18,7 @@ Wir haben deshalb ein Repository aufgesetzt:
 
 https://github.com/plattform-eva/revision-politische-rechte-2021
 
-"Plattform-EVA" meint Plattform für Eidgenössiche VernehmlassungsAntworten.  Wir haben zur Zeit nur die eine Vorlage im Auge: *Vernehmlassung 2021/61: Änderung der Verordnung über die politischen Rechte (VPR) und der Verordnung der BK über die elektronische Stimmabgabe (VEleS)*. Aber das Konzept scheint uns ausbaufähig.
+"Plattform EVA" meint Plattform für Eidgenössiche VernehmlassungsAntworten.  Wir haben zur Zeit nur die eine Vorlage im Auge: *Vernehmlassung 2021/61: Änderung der Verordnung über die politischen Rechte (VPR) und der Verordnung der BK über die elektronische Stimmabgabe (VEleS)*. Aber das Konzept scheint uns ausbaufähig.
 
 Die folgenden Arbeiten haben wir bereits geleistet:
 
@@ -32,19 +32,19 @@ Die folgenden Arbeiten haben wir bereits geleistet:
 * Die kompletten Fragebögen der 2020 zur Diskussion eingeladenen ExpertInnen hochgeladen (Gesuch um Akteneinsicht; 375 Seiten).
 * Den kompletten Online-Dialog der 2020 zur Diskussion eingeladenen ExpertInnen hochgeladen (Gesuch um Akteneinsicht; 292 Seiten).
 
-Auch ohne aktive Mitarbeit ist Plattform-EVA also bereits ein guter Ort um die Vorlagen verstehen zu lernen und ein Hilfsmittel für das Formulieren einer eigenen Antwort: Schaut Euch die Unterlagen an und macht Euch selbst ein Bild!
+Auch ohne aktive Mitarbeit ist Plattform EVA also bereits ein guter Ort um die Vorlagen verstehen zu lernen und ein Hilfsmittel für das Formulieren einer eigenen Antwort: Schaut Euch die Unterlagen an und macht Euch selbst ein Bild!
 
 Als nächsten Schritt haben wir vor, die Antworten und Empfehlungen der genannten ExpertInnen auf die beiden Vorlagen zu mappen und zu verstehen, ob und wie die Expertenmeinungen sich in den Vorlagen widerspiegeln. Da käme uns Mitarbeit gelegen. Und dann bitten wir möglichst viele Fachleute, fundierte Meinungen zu den einzelnen Artikeln der Vorlagen in die Issues einbringen. Der Detaillierungsgrad - gerade in den technisch-administrativen Ausführungsbestimmungen (Anhang zur Vorlage 2) - ist wirklich sehr hoch.
 
-Da gibt es also viel zu tun und es steht noch viel Arbeit vor uns. Und auf den ersten Blick ist das auch eine ziemlich trockene Materie. Aber je tiefer man gräbt, desto interessanter wird es: Es wird hier grundsätzlich verhandelt, wie man im Dienst des Staates sichere Software entwickeln und betreiben soll. Hochspannend! Und natürlich geht es darum, wie die Stimmbürger und Stimmbürgerinnen mittels elektronischer Stimmabgabe an verbindlichen und tragfähigen demokratischen Entscheiden teilnehmen sollen: Es geht um technische Ausführungsbestimmungen für das Fundament der Demokratie.
+Da gibt es also viel zu tun und es steht noch viel Arbeit vor uns. Und auf den ersten Blick ist das auch eine ziemlich trockene Materie. Aber je tiefer man gräbt, desto interessanter wird es: Es wird in diesen Vorlagen grundsätzlich verhandelt, wie man im Dienst des Staates sichere Software entwickeln und betreiben soll. Hochspannend! Und natürlich geht es darum, wie die Stimmbürger und Stimmbürgerinnen mittels elektronischer Stimmabgabe an verbindlichen und tragfähigen demokratischen Entscheiden teilnehmen können: Es geht um technische Ausführungsbestimmungen für das Fundament der Demokratie.
 
-Und dann vielleicht zum Schluss noch etwas Grundsätzliches: Es gibt gute Gründe E-Voting prinzipiell abzulehnen und sogar ein paar Argumente für E-Voting. Das ist aber eine politische Frage und die steht gerade nicht auf dem Programm. Zur Zeit geht es darum, den EVoting Versuchsbetrieb neu zu regulieren. Und wir verhandeln gemeinsam die Frage, ob die vorgeschlagene Regulierung taugt und namentlich der Sicherheit die gebührende Rechnung trägt. Wer da mitdiskutieren will, ist herzlich willkommen.
+Und dann vielleicht zum Schluss noch etwas Grundsätzliches: Es gibt gute Gründe E-Voting prinzipiell abzulehnen und sogar ein paar Argumente für E-Voting. Das ist aber eine politische Frage und die steht gerade nicht auf dem Programm. Zur Zeit geht es darum, den EVoting Versuchsbetrieb neu zu regulieren. Und wir besprechen gemeinsam die Frage, ob die vorgeschlagene Regulierung taugt und namentlich der Sicherheit die gebührende Rechnung trägt. Wer da mitdiskutieren will, ist herzlich willkommen.
 
-Hier geht's zur Plattform-EVA: https://github.com/plattform-eva/revision-politische-rechte-2021
+Hier geht's zur Plattform EVA: https://github.com/plattform-eva/revision-politische-rechte-2021
 
 Hier ist unser Twitter-Account: https://twitter.com/plattform_eva
 
-Und dann planen wir etwa einmal die Woche einen Status zu kommunizieren. Dieser Text hier ist der Status #0.
+Und dann planen wir etwa einmal die Woche einen Status zu kommunizieren. Dieser Text hier ist der Status #0 oder eben Newsletter #0.
 
 Vielen Dank für das Interesse!
 
