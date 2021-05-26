@@ -105,6 +105,9 @@ Auf dieser Grundlage überarbeitete die Bundeskanzlei im Winter 2021 die beiden 
 
 ### Gesuche um Akteneinsicht
 
+Gesuch von Christian Killer ([@christiankiller](https://github.com/christiankiller)) via E-Mail eingereicht am 17. Mai um 22:59. 
+Die Bundeskanzlei (BK) hat das Gesuch am 19. Mai 2021 bestätigt und einen Teil der angeforderten Dokumente, namentlich die Dialoge mit der Wissenschaft, wie hier unten verlinkt, am 20. Mai um 17:03 zugestellt.
+
 * [Dialog mit der Wissenschaft 2020: Antworten Fragebogen](./docs//gesuche-um-akteneinsicht/expertendialog/Dialog%20mit%20der%20Wissenschaft%202020_%20Antworten%20Fragebogen.pdf)
 * [Dialog mit der Wissenschaft 2020: Diskussionen auf der Internet-Plattform](./docs/gesuche-um-akteneinsicht/expertendialog/Dialog%20mit%20der%20Wissenschaft%202020_%20Diskussionen%20auf%20der%20Internet-Plattform.pdf)
 
