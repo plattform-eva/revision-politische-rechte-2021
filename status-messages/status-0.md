@@ -8,7 +8,7 @@ Ein gängiger Kanal in dem sich Fachleute in den Regulierungsprozess einbringen 
 
 Da hängen wir ein: Für die vorliegende E-Voting-Vernehmlassung wollen wir den Zugang zu den Vorlagen erleichtern und sie gemeinsam diskutieren. Danach möchten wir mit möglichst vielen Interessierten eine gemeinsame Antwort schreiben.
 
-Normalerweise nehmen vor allem Kantone, politische Parteien und nationale Verbände in Vernehmlassungsverfahren Stellung. Da schreibt oft eine Stabsstelle oder jemand im Parteisekratariat eine Antwort und der Vorstand genehmigt dann das Papier und schickt es nach Bern.  Mit Hilfe von modernen Werkzeugen ist es dem gegenüber möglich, sich online adhoc als Interessengemeinschaft zu konstituieren und gemeinsam Stellung zu beziehen. Buzzwords: Liquid democracy, adhocracy+, crowd sourcing democracy, etc.
+Normalerweise nehmen vor allem Kantone, politische Parteien und nationale Verbände an einer Vernehmlassung teil. Da schreibt oft eine Stabsstelle oder jemand im Parteisekratariat eine Antwort und der Vorstand genehmigt dann das Papier und schickt es nach Bern.  Mit Hilfe von modernen Werkzeugen ist es dem gegenüber möglich, sich online adhoc als Interessengemeinschaft zu konstituieren und gemeinsam Stellung zu beziehen. Buzzwords: Liquid democracy, adhocracy+, crowd sourcing democracy, etc.
 
 Konkreter: GitHub
 
