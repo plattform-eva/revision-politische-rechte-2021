@@ -1,12 +1,12 @@
 # Plattform EVA zum Thema E-Voting gestartet
 
-Nach dem spektakulären Abbruch der Übung E-Voting 2019, gleisen Bund und Kantone zur Zeit den Versuchsbetrieb neu auf. Dazu werden die beiden einschlägigen Verordnungen revidiert: Ende April eröffnete die Bundeskanzlei das Vernehmlassungsverfahren hiezu.  Anders als bei einer Gesetzesrevision gehen die Vorlagen aber nachher nicht an das Parlament: Verordnungen sind Sache der Verwaltung.  Umso wichtiger ist die öffentliche Diskussion dazu.
+Nach dem spektakulären Abbruch der Übung E-Voting 2019, gleisen Bund und Kantone zur Zeit den Versuchsbetrieb neu auf. Dazu werden die beiden einschlägigen Verordnungen revidiert: Ende April eröffnete die Bundeskanzlei das Vernehmlassungsverfahren hiezu.  Anders als bei einer Gesetzesrevision gehen die Vorlagen aber nachher nicht an das Parlament: Verordnungen sind Sache der Verwaltung.  Umso wichtiger ist die öffentliche Diskussion.
 
 Denn es gibt viel zu besprechen. Die Vorlagen sind ausführlich und die technische Regulierungstiefe ist ausgesprochen tief. So tief, dass nur noch ausgesprochene Techies sich überhaupt ein genaues Bild machen können. E-Voting halt.
 
 Ein gängiger Kanal in dem sich Fachleute in den Regulierungsprozess einbringen können, ist das eidgenössische Vernehmlassungsverfahren. Es lädt "interessierte Kreise" ein, die Vorlagen im Entwurfsstadium zu diskutieren und ihre Meinung kundzutun. Diese Meinung ist auch sehr wichtig, denn ohne dieses Feedback treten die Verordnungen so wie geschrieben und ohne weitere Änderungen in Kraft und es bliebe der Nachgeschmack, dass sich niemand ausserhalb der Bundeskanzlei das Ganze im Detail angesehen hat.
 
-Da hängen wir ein: Für die vorliegende E-Voting-Vernehmlassung wollen wir den Zugang zu den Vorlagen erleichtern und sie gemeinsam diskutieren. Danach möchten wir mit möglichst vielen Interessierten, eine gemeinsame Antwort schreiben.
+Da hängen wir ein: Für die vorliegende E-Voting-Vernehmlassung wollen wir den Zugang zu den Vorlagen erleichtern und sie gemeinsam diskutieren. Danach möchten wir mit möglichst vielen Interessierten eine gemeinsame Antwort schreiben.
 
 Normalerweise nehmen vor allem Kantone, politische Parteien und nationale Verbände in Vernehmlassungsverfahren Stellung. Da schreibt oft eine Stabsstelle oder jemand im Parteisekratariat eine Antwort und der Vorstand genehmigt dann das Papier und schickt es nach Bern.  Mit Hilfe von modernen Werkzeugen ist es dem gegenüber möglich, sich online adhoc als Interessengemeinschaft zu konstituieren und gemeinsam Stellung zu beziehen. Buzzwords: Liquid democracy, adhocracy+, crowd sourcing democracy, etc.
 
