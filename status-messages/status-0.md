@@ -1,6 +1,6 @@
 # Plattform EVA zum Thema E-Voting gestartet
 
-Nach dem spektakulären Abbruch der Übung E-Voting 2019, gleisen Bund und einzelne Kantone zur Zeit den Versuchsbetrieb neu auf. Dazu werden die beiden einschlägigen Verordnungen revidiert: Ende April eröffnete die Bundeskanzlei das Vernehmlassungsverfahren hiezu.  Anders als bei einer Gesetzesrevision gehen die Vorlagen aber nachher nicht an das Parlament: Verordnungen sind Sache der Verwaltung.  Umso wichtiger ist die öffentliche Diskussion.
+Nach dem spektakulären Abbruch der Übung E-Voting 2019 gleisen Bund und einzelne Kantone zur Zeit den Versuchsbetrieb neu auf. Dazu werden die beiden einschlägigen Verordnungen revidiert: Ende April eröffnete die Bundeskanzlei das Vernehmlassungsverfahren hiezu.  Anders als bei einer Gesetzesrevision gehen die Vorlagen aber nachher nicht an das Parlament: Verordnungen sind Sache der Verwaltung.  Umso wichtiger ist die öffentliche Diskussion.
 
 Denn es gibt viel zu besprechen. Die Vorlagen sind ausführlich und die technische Regulierungstiefe ist ausgesprochen tief. So tief, dass nur noch ausgesprochene Techies sich überhaupt ein genaues Bild machen können. E-Voting halt.
 
