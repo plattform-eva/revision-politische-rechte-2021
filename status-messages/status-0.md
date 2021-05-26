@@ -10,7 +10,7 @@ Da hängen wir ein: Für die vorliegende E-Voting-Vernehmlassung wollen wir den 
 
 Normalerweise nehmen vor allem Kantone, politische Parteien und nationale Verbände an einer Vernehmlassung teil. Da schreibt oft eine Stabsstelle oder jemand im Parteisekratariat eine Antwort und der Vorstand genehmigt dann das Papier und schickt es nach Bern.  Mit Hilfe von modernen Werkzeugen ist es dem gegenüber möglich, sich online adhoc als Interessengemeinschaft zu konstituieren und gemeinsam Stellung zu beziehen. Buzzwords: Liquid democracy, adhocracy+, crowd sourcing democracy, etc.
 
-Konkreter: GitHub
+Handfester: GitHub
 
 **Denn eine gute Vernehmlassungsantwort ist auch nichts anderes als ein Stück LaTeX Src Code.**
 
