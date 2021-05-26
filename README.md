@@ -47,12 +47,11 @@ Wir fangen mit einer Analyse der Vorlagen und der Unterlagen an, werden die Erke
 
 ### Vorgeschichte und Grundlagen der überarbeiteten Vorlagen
 
-Christian Folini hat an der Usenix Enigma 2021 Konferenz einen guten Überblick über die Entwicklung des E-Voting in der Schweiz gegeben.
+* [Chronik der Bundeskanzlei zu EVoting](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-voting/chronik.html)
+* [The Adventurous Tale of Online-Voting in Switzerland](https://www.youtube.com/watch?v=pzfHMF3tO7A) - 20min Vortrag von Christian Folini an der Usenix Enigma Konferenz 2020.
+* [Slides (des Vortrages) mit Timeline](https://www.slideshare.net/ChristianFolini/the-adventurous-tale-of-online-voting-in-switzerland/ChristianFolini/the-adventurous-tale-of-online-voting-in-switzerland)
 
-* [Youtube (20 min)](https://www.youtube.com/watch?v=pzfHMF3tO7A)
-* [Slides mit Timeline](https://www.slideshare.net/ChristianFolini/the-adventurous-tale-of-online-voting-in-switzerland/ChristianFolini/the-adventurous-tale-of-online-voting-in-switzerland)
-
-Nach dem Ausstieg des Systemanbieters Genf und dem einstweiligen Stop des E-Voting Systems der Post im Jahr 2019 hat der Bundesrat die Bundeskanzlei und die Kantone beauftragt, eine Neuausrichtung des Versuchsbetriebs E-Voting zu konzipieren. Damit verband der Bundesrat 4 Ziele:
+Nach dem Ausstieg des Systemanbieters Genf und dem einstweiligen Stop des E-Voting Systems der Post im Jahr 2019 hat der Bundesrat die Bundeskanzlei und die Kantone beauftragt, eine Neuausrichtung des Versuchsbetriebs E-Voting zu konzipieren. Damit verband der Bundesrat gemäss dem Bericht zu den beiden vorliegenden Vorlagen vier Ziele:
 
 * Weiterentwicklung der Systeme
 * Wirksame Kontrolle und Aufsicht
