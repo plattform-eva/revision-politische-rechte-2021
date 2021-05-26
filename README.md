@@ -15,13 +15,13 @@ Wir publizieren regelmässig Statusmeldungen, respektive einen Newsletter:
 * *Kernteam* : Christian Killer ([@christiankiller](https://github.com/christiankiller)), Melchior Limacher ([@melchl](https://github.com/melchl)), Simon Studer ([@studersi](https://github.com/studersi)), Christian Folini ([@dune73](https://github.com/dune73))
 * *Modus* : Wir diskutieren die Vorlagen und erarbeiten eine gemeinsame Antwort. Dies wird ein finaler Text sein. Er wird kolletiv geschrieben und verbessert als ob es sich um Src Code handeln würde.
 
-## Zugang zur Laufenden Diskussion
+## Zugang zur laufenden Diskussion
 
 * [Meta-Diskussionen, General Talk, Partizipation, etc.](https://github.com/plattform-eva/revision-politische-rechte-2021/labels/Meta)
 * [Issues zur Vorlage 1 (VPR)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22VPR+%28Vorlage+1%29%22+sort%3Atitle-asc)
 * [Issues zur Vorlage 2 (VEleS)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22VEleS+%28Vorlage+2%29%22+sort%3Atitle-asc
 )
-* [Issues zum Anhang von Vorlage 2 (VEleS)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22Anhang+VEleS+%28Vorlage+2%29%22+sort%3Atitle-asc)
+* [Issues zum Anhang von Vorlage 2 (Anhang VEleS)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22Anhang+VEleS+%28Vorlage+2%29%22+sort%3Atitle-asc)
 
 ## Allgemeine Infos zum Vernehmlassungsverfahren
 
