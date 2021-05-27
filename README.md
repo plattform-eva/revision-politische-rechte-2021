@@ -15,11 +15,13 @@ Wir publizieren regelmässig Statusmeldungen, respektive einen Newsletter:
 * *Kernteam* : Christian Killer ([@christiankiller](https://github.com/christiankiller)), Melchior Limacher ([@melchl](https://github.com/melchl)), Simon Studer ([@studersi](https://github.com/studersi)), Christian Folini ([@dune73](https://github.com/dune73))
 * *Modus* : Wir diskutieren die Vorlagen und erarbeiten eine gemeinsame Antwort. Dies wird ein finaler Text sein. Er wird kolletiv geschrieben und verbessert als ob es sich um Src Code handeln würde.
 
-## Zugang zur Laufenden Diskussion
+## Zugang zur laufenden Diskussion
 
-* FIXME
-
-
+* [Meta-Diskussionen, Einsteigerfragen, General Talk, Partizipation, etc.](https://github.com/plattform-eva/revision-politische-rechte-2021/labels/Meta)
+* [Issues zur Vorlage 1 (VPR)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22VPR+%28Vorlage+1%29%22+sort%3Atitle-asc)
+* [Issues zur Vorlage 2 (VEleS)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22VEleS+%28Vorlage+2%29%22+sort%3Atitle-asc
+)
+* [Issues zum Anhang von Vorlage 2 (Anhang VEleS)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22Anhang+VEleS+%28Vorlage+2%29%22+sort%3Atitle-asc)
 
 ## Allgemeine Infos zum Vernehmlassungsverfahren
 
@@ -102,6 +104,9 @@ Auf dieser Grundlage überarbeitete die Bundeskanzlei im Winter 2021 die beiden 
 * [Technische und Administrative Ausführungsbestimmungen (Anhang VEleS)](./docs/aktive-regulierung/Anhang_VEleS_V_2.0_DE.pdf)
 
 ### Gesuche um Akteneinsicht
+
+Gesuch von Christian Killer ([@christiankiller](https://github.com/christiankiller)) via E-Mail eingereicht am 17. Mai um 22:59. 
+Die Bundeskanzlei (BK) hat das Gesuch am 19. Mai 2021 bestätigt und einen Teil der angeforderten Dokumente, namentlich die Dialoge mit der Wissenschaft, wie hier unten verlinkt, am 20. Mai um 17:03 zugestellt.
 
 * [Dialog mit der Wissenschaft 2020: Antworten Fragebogen](./docs//gesuche-um-akteneinsicht/expertendialog/Dialog%20mit%20der%20Wissenschaft%202020_%20Antworten%20Fragebogen.pdf)
 * [Dialog mit der Wissenschaft 2020: Diskussionen auf der Internet-Plattform](./docs/gesuche-um-akteneinsicht/expertendialog/Dialog%20mit%20der%20Wissenschaft%202020_%20Diskussionen%20auf%20der%20Internet-Plattform.pdf)
