@@ -18,7 +18,7 @@ Wir publizieren regelmässig Statusmeldungen, respektive einen Newsletter:
 ## Zugang zur laufenden Diskussion
 
 * [Meta-Diskussionen, Einsteigerfragen, General Talk, Partizipation, etc.](https://github.com/plattform-eva/revision-politische-rechte-2021/labels/Meta)
-* [Issues zur Vorlage 1 (VPR)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22VPR+%28Vorlage+1%29%22+sort%3Atitle-asc)
+* [Issues zur Vorlage 1 (VPR)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22VPR+%28Vorlage+1%29%22+sort%3Atitle-asc) - [Generelle Diskussion zur Vorlage 1 (VPR)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues/65)
 * [Issues zur Vorlage 2 (VEleS)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22VEleS+%28Vorlage+2%29%22+sort%3Atitle-asc
 )
 * [Issues zum Anhang von Vorlage 2 (Anhang VEleS)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22Anhang+VEleS+%28Vorlage+2%29%22+sort%3Atitle-asc)
