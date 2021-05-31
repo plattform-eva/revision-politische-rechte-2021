@@ -2,7 +2,7 @@
 
 Wir haben unsere Plattform und die Diskussion zur E-Voting Vernehmlassung 2021 letzte Woche gestartet. Das Feedback war gut und kam aus verschiedenen Richtungen.  Besonders gefreut hat uns der Rückenwind durch [Dani Graf](https://twitter.com/dani_graf/status/1397585765681573890) und die [Digital Gesellschaft](https://twitter.com/digiges_ch/status/1397869618295939072).
 
-Christian Killer hat über das Wochenende ein Logo für die Plattform kreiert und Melchior Limacher versucht den Prozess / die Delegation zu all den Vorarbeiten und Arbeiten bis zu den vorliegenden beiden Vorlagen zu zeichnen. Ziemlich schwierig, wenn verschiedene föderale Ebenen in mehreren Gremien zusammenarbeiten.
+Christian Killer hat über das Wochenende ein [Logo für die Plattform](https://github.com/plattform-eva/plattform-eva-shared) kreiert und Melchior Limacher versucht den Prozess / die Delegation zu all den Vorarbeiten und Arbeiten bis zu den vorliegenden beiden Vorlagen zu zeichnen: ziemlich schwierig, wenn verschiedene föderale Ebenen in mehreren Gremien zusammenarbeiten...
 
 Nun startet aber eine neue Woche und wenden uns der **Teilrevision der Verordnung über die politischen Rechte (VPR)** zu. 
 
@@ -22,9 +22,9 @@ Wir freuen uns, wenn möglichst viele sich an der Diskussion beteiligen.
 
 ## Links
 
-* [Allgemeine Diskussionen zur Vorlage](https://github.com/plattform-eva/revision-politische-rechte-2021/issues/66)
-* [Zugang zu den Diskussionen der einzelnen geänderten Artikel](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22VPR+%28Vorlage+1%29%22+sort%3Atitle-asc)
-* [Zur Zeit aktive Verordnung](https://github.com/plattform-eva/revision-politische-rechte-2021/raw/main/docs/aktive-regulierung/SR_161.11_-_Verordnung_vom_24._Mai_1978_%C3%BCber_die_politischen_Rechte_(VPR).pdf)
+* [Allgemeine Diskussionen zur Vorlage 1 (VPR)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues/66)
+* [Zugang zu den Diskussionen der einzelnen geänderten Artikeln der VPR](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22VPR+%28Vorlage+1%29%22+sort%3Atitle-asc)
+* [Zur Zeit aktive VPR](https://github.com/plattform-eva/revision-politische-rechte-2021/raw/main/docs/aktive-regulierung/SR_161.11_-_Verordnung_vom_24._Mai_1978_%C3%BCber_die_politischen_Rechte_(VPR).pdf)
 
 
 Christian Folini für das Plattform EVA Kernteam
