@@ -1,6 +1,6 @@
 # Plattform EVA: Status 2 (31.5.2021)
 
-Wir haben unsere Plattform und die Diskussion zur E-Voting Vernehmlassung 2021 letzte Woche gestartet. Das Feedback war gut und kam aus verschiedenen Richtungen.  Besonders gefreut hat uns der Rückenwind durch [Dani Graf](https://twitter.com/dani_graf/status/1397585765681573890), die [Digital Gesellschaft](https://twitter.com/digiges_ch/status/1397869618295939072) und [Adrienne Fichter](https://twitter.com/adfichter/status/1397593920549408775).
+Wir haben unsere Plattform und die Diskussion zur E-Voting Vernehmlassung 2021 letzte Woche gestartet. Das Feedback war gut und kam aus verschiedenen Richtungen.  Besonders gefreut hat uns der Rückenwind durch [Dani Graf](https://twitter.com/dani_graf/status/1397585765681573890), die [Digital Gesellschaft](https://twitter.com/digiges_ch/status/1397869618295939072) und [Adrienne Fichter](https://twitter.com/adfichter/status/1397593920549408775). Und dann natürlich die [Berichterstattung in der Netzwoche](https://www.netzwoche.ch/news/2021-05-28/plattform-eva-bietet-diskussionsforum-fuer-neuen-e-voting-anlauf).
 
 Christian Killer hat über das Wochenende ein [Logo für die Plattform](https://github.com/plattform-eva/plattform-eva-shared) kreiert und Melchior Limacher versucht den Prozess / die Delegation zu all den Vorarbeiten und Arbeiten bis zu den vorliegenden beiden Vorlagen zu zeichnen: ziemlich schwierig, wenn verschiedene föderale Ebenen in mehreren Gremien zusammenarbeiten...
 
