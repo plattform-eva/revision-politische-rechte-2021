@@ -4,6 +4,8 @@ Wir haben unsere Plattform und die Diskussion zur E-Voting Vernehmlassung 2021 l
 
 Christian Killer hat über das Wochenende ein [Logo für die Plattform](https://github.com/plattform-eva/plattform-eva-shared) kreiert und Melchior Limacher versucht den Prozess / die Delegation zu all den Vorarbeiten und Arbeiten bis zu den vorliegenden beiden Vorlagen zu zeichnen: ziemlich schwierig, wenn verschiedene föderale Ebenen in mehreren Gremien zusammenarbeiten...
 
+![Plattform EVA Logo](https://raw.githubusercontent.com/plattform-eva/plattform-eva-shared/main/logo/1x/landscape-rounded.png)
+
 Nun startet aber eine neue Woche und wir wenden uns der **Teilrevision der Verordnung über die politischen Rechte (VPR)** zu. 
 
 ## Worum geht es?
