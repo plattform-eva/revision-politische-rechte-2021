@@ -9,6 +9,7 @@ Die Diskussion ist offen für alle, die an einem konstruktiven Dialog zum Thema 
 Wir publizieren regelmässig Statusmeldungen, respektive einen Newsletter:
 
 * [Newsletter #0: Der Start](https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/status-messages/status-0.md)
+* [Newsletter #1: Fokus: Vorlage 1 (Verordnung über die politischen Rechte)](https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/status-messages/status-1.md)
 
 ## Trägerschaft und Ziel
 
