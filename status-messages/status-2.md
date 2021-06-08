@@ -7,7 +7,7 @@ Die Teilrevision der VPR war jedoch nur die Aufwärmphase -  Eine neue Woche war
 Wir freuen uns, wenn möglichst viele sich an der Diskussion beteiligen. 
 
 ## Update Gesuch um Akteneinsicht
-Das Gesuch um Akteneinsicht wurde am 01.06.2021 erneut bestätigt und die Gebühr zur Herausgabe wird auf CHF 1'000 geschätzt - jedoch "laufen betreffend Protokolle der  nterarbeitsgruppe noch Abklärungen, die allenfalls zu einer Reduktion der Gebühr führen. Gerne werden wir Sie informieren, sofern die Gebühr tiefer ausfallen sollte."
+Das Gesuch um Akteneinsicht wurde am 01.06.2021 erneut bestätigt und die Gebühr zur Herausgabe wird auf CHF 1'000 geschätzt - jedoch "laufen betreffend Protokolle der  Unterarbeitsgruppe noch Abklärungen, die allenfalls zu einer Reduktion der Gebühr führen. Gerne werden wir Sie informieren, sofern die Gebühr tiefer ausfallen sollte."
 
 Es handelt sich um folgende angeforderten Protokolle: 
 
