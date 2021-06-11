@@ -120,3 +120,16 @@ Daneben ist der Überblick über die Berichte und Studien im Auftrag der Bundesk
 * [Bundeskanzlei: Vote électronique](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-voting.html)
 * [Medienmitteilungen](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-voting/bundesrat-beschliesst-naechste-schritte-zur-ausbreitung-der-elek.html)
 * [Berichte und Studien](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-voting/berichte-und-studien.html)
+
+### Weitere Links zu E-Voting Systemen in der Schweiz
+
+Es gibt grundsätzlich zwei Systeme die in der Schweiz noch aktiv entwickelt werden: 
+* [Swiss Post E-Voting](https://gitlab.com/swisspost-evoting) entwickelt von der [Schweizer Post](https://www.post.ch/en/business-solutions/e-voting). 
+* [OpenCHVote](https://gitlab.com/openchvote) entwickelt von der [E-Voting Gruppe der BFH](https://e-voting.bfh.ch/). 
+
+Die [Issues im Gitlab](https://gitlab.com/swisspost-evoting/documentation/-/issues) der Schweizer Post sind spannend, ein paar Fragen und Antworten dort helfen beim Verständnis des Systems. Es sind auch Berichte von Thomas Haines und Carsten Schürmann in den Issues angehängt.
+
+Lesenswert auf Seiten von OpenCHVote ist die [CHVote Protocol Specification](https://eprint.iacr.org/2017/325.pdf), welche kontinuierlich aktualisiert wird, aber auch Background zum Schweizer Use-Case, sowie zur Verordnung liefert.   
+
+
+
