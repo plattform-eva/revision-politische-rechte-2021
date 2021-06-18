@@ -84,6 +84,7 @@ Die Zusammenfassung der Antworten der Fragebögen und die gemeinsame Antwort zu 
 Ferner wurde im Anschluss an den Expertenbericht auch ein Schlussbericht des Steuerungsausschusses zum Expertendialog und der Neuausrichtung publiziert.
 
 Auf dieser Grundlage überarbeitete die Bundeskanzlei im Winter 2021 die beiden Vorlagen und den Anhang für die Vernehmlassung, die am 28.4.2021 startete.
+![Sequenzdiagramm Entstehung Vorlage](https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/images/sequenzdiagrammVerordnungEntstehung.png?raw=true)
 
 ## Weitere Dokumente
 
