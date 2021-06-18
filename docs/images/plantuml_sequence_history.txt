@@ -1,0 +1,60 @@
+@startuml
+'skinparam maxMessageSize 300
+'skinparam wrapWidth 400
+scale max 2048 width
+
+
+participant "**Bundesrat** \n\nGewählt von der Bundesversammlung." as BR
+participant "**Bundeskanzlei** \n\nKanzler gewählt von der Bundesversammlung." as BK
+participant "**Steuerungsausschuss Vote électronique (SA VE)**\n\n Einsetzung beschlossen von Staatsschreiberkonferenz. \n 2011 konstituiert unter Leitung der Bundeskanzlei. \nMitglieder: 4 Vertreter Bund (inkl. Bundeskanzlei),\n5 Kantone (Staatsschreiber)\nStand 2011: [[https://www.bk.admin.ch/dam/bk-intra/de/dokumente/pore/politische_rechte/mitteilung_steuerungsausschuss.pdf.download.pdf/mitteilung_steuerungsausschuss.pdf Konstituierung]]\n\nTODO: Aktuelle Zusammensetzung" as SA
+participant "**Unterarbeitsgruppe** \n**'Neuausrichtung und Wiederaufnahme der Versuche'**\n\nEinsetzung von SA VA. \nLeitung: Bundeskanzlei\nMitglieder: Vertreter der Post und der Kantone BE, FR, \nBS, SG, GR, AG, TG und NE" as UAG
+participant "**Experten-Dialog**\n\nEinsetzung von Unterarbeitsgruppe.\nLeitung: Christian Folini\nMitglieder: 23 in- und ausländische Experten \n[[https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/expertendialog/Liste_der_mandatierten_Expertinnen_und_Experten,_Juni_2020.pdf Liste der Experten]]" as ED
+
+
+BK->BR: eVoting hat ein Vertrauensproblem 
+note over BR
+  Stossrichtung der Neuausrichtung:
+    - Weiterentwicklung der Systeme
+    - Wirksame Kontrolle und Aufsicht
+    - Stärkung der Transparenz und des Vertrauens
+    - Stärkere Vernetzung mit der Wissenschaft
+end note
+BR->BK : Auftrag zur Konzeption einer Neuausrichtung \ndes eVoting Versuchsbetriebs
+BR->SA : Auftrag zur Konzeption einer Neuausrichtung \ndes eVoting Versuchsbetriebs
+
+SA->UAG : Auftrag zur Konzeption einer Neuausrichtung \ndes eVoting Versuchsbetriebs
+UAG<->BK: Abgleich
+UAG<->SA: Abgleich
+
+BK->UAG: Empfehle Experten
+UAG->ED: Berufe Experten
+
+ED->ED: [[https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/gesuche-um-akteneinsicht/expertendialog/Dialog%20mit%20der%20Wissenschaft%202020_%20Antworten%20Fragebogen.pdf Fragenkatalog]]
+ED->UAG: [[https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/expertendialog/Summary_of_the_Replies_to_the_Questionnaire.pdf Zusammenfassung der Antworten des Fragenkatalogs]]
+ED->ED: [[https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/gesuche-um-akteneinsicht/expertendialog/Dialog%20mit%20der%20Wissenschaft%202020_%20Diskussionen%20auf%20der%20Internet-Plattform.pdf Expertendiskussion]]
+ED->UAG: [[https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/expertendialog/Summary_of_the_Expert_Dialog_2020.pdf Ausführlicher Expertenbericht]]
+UAG->SA: [[https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/expertendialog/Management_Summary_zum_Dialog_mit_der_Wissenschaft_2020.pdf Management Summary des Expertenberichts]]
+UAG->BK: [[https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/expertendialog/Management_Summary_zum_Dialog_mit_der_Wissenschaft_2020.pdf Management Summary des Expertenberichts]]
+BK<->UAG: Ableich
+UAG<->SA: Abgleich
+
+note over BK, UAG #FFAAAA
+    **Wie entstand aus dem Expertenbericht die Verordnung?**
+
+    Enorm viel aus dem Expertenbericht wurde in der Verordnung umgesetzt. 
+    Es sollen die Punkte aus der Expertendiskussion identifiziert werden,
+    die in der Verordnung nicht umgesetzt wurden. Dazu gehören:
+    - Diskussion der Sicherheit der klassischen Stimmkanäle (-> Wird teilweise 
+      auf anderem Weg adressiert. Hoheit der Kantone muss beachtet werden.)
+    - Sicherheit des Druckprozesses. (-> Es wird anerkannt, dass eine Lösung
+      derzeit zu teuer ist oder zu lange dauert. Die BK unternimmt weitere
+      Anstrengungen, um solidere Lösungen zu finden.)
+
+
+    **Es fehlen die Protokolle des SA VE und der Unterarbeitsgruppe**
+    Gesuch gemäss Öffentlichkeitsgesetz (BGÖ) wurde am 21.5.2021 gestellt.
+end note
+
+SA->BR: [[https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/expertendialog/Neuausrichtung_und_Wiederaufnahme_der_Versuche_Schlussbericht_SA_VE_30.11.2020.pdf Schlussbericht Steuerungsausschuss]]
+BR->BK: Erstellt die Verordnung basierend auf \nden folgenden (welchen?) Leitplanken
+@enduml
