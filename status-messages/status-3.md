@@ -4,7 +4,7 @@ Wir sind mit den [Issues zur Vorlage 2 (VEleS)](https://github.com/plattform-eva
 
 Die Diskussionen der VEleS decken unzählige Punkte auf, diese rangierten von [vollständiger Verifizierbarkeit](https://github.com/plattform-eva/revision-politische-rechte-2021/issues/20), hinüber zu [breiter gefassten Artikeln](https://github.com/plattform-eva/revision-politische-rechte-2021/issues/24), sowie auch das Thema Open-Source, was in diversen Issues ([Art. 11](https://github.com/plattform-eva/revision-politische-rechte-2021/issues/26), [Art. 12](https://github.com/plattform-eva/revision-politische-rechte-2021/issues/27)) an Wichtigkeit gewann. 
 
-Nach der VEleS folgt nun der Endspurt und wir wenden uns dem [technischen Anhang von Vorlage 2 (Anhang VEleS)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22Anhang+VEleS+%28Vorlage+2%29%22+sort%3Atitle-asc)
+Nach der VEleS folgt nun der Endspurt und wir wenden uns dem [technischen Anhang von Vorlage 2 (Anhang VEleS)](https://github.com/plattform-eva/revision-politische-rechte-2021/issues?q=is%3Aissue+is%3Aopen+label%3A%22Anhang+VEleS+%28Vorlage+2%29%22+sort%3Atitle-asc).
 
 Wir freuen uns, wenn möglichst viele sich an der Diskussion beteiligen. 
 
