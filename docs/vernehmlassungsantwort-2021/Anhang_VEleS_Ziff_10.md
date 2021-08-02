@@ -1,6 +1,6 @@
-*Nötig?* : FIXME
-*Tauglich?* : FIXME
-*Praktikabel?* : FIXME
+*Nötig?* : FIXME </br>
+*Tauglich?* : FIXME </br>
+*Praktikabel?* : FIXME </br>
 
 *Änderungsvorschlag?* :
 
