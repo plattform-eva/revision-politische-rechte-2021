@@ -1,5 +1,5 @@
-*Antwort*: FIXME Ja / Ja mit Vorbehalt / Nein
+**Antwort** : FIXME Ja / Ja mit Vorbehalt / Nein
 
-*Anmerkungen*:
+**Anmerkungen** :
 
 FIXME
