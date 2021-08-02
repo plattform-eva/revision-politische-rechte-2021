@@ -1,12 +1,12 @@
-*Nötig?* : FIXME </br>
-*Tauglich?* : FIXME </br>
-*Praktikabel?* : FIXME </br>
+**Nötig?** : FIXME </br>
+**Tauglich?** : FIXME </br>
+**Praktikabel?** : FIXME </br>
 
-*Änderungsvorschlag?* :
+**Änderungsvorschlag?** :
 
 FIXME
 
-*Bemerkungen* :
+**Bemerkungen** :
 
 FIXME
 
