@@ -4,7 +4,7 @@
 
 **Änderungsvorschlag?** :
 
-d. Der Öffentlichkeit werden adressatengerechte Informationen zur Funktionsweise des Systems und zu den betrieblichen Abläufen zugänglich gemacht und **wirksame** Anreize zur Mitwirkung von fachkundigen Personen aus der Öffentlichkeit sind vorhanden.
+d. Der Öffentlichkeit werden adressatengerechte Informationen zur Funktionsweise des Systems und zu den betrieblichen Abläufen zugänglich gemacht ~~und Anreize zur Mitwirkung von fachkundigen Personen aus der Öffentlichkeit sind vorhanden.~~ **.Die vorhandenen Anreize führen nachweislich zu einer hinreichenden Mitwirkung von fachkundigen Personen aus der Öffentlichkeit mit dem System.**
 
 **Bemerkungen** :
 
