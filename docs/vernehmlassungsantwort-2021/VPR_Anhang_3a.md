@@ -1,12 +1,11 @@
-**Nötig?** : FIXME </br>
-**Tauglich?** : FIXME </br>
-**Praktikabel?** : FIXME </br>
+**Nötig?** : Ja </br>
+**Tauglich?** : Nein </br>
+**Praktikabel?** : Ja </br>
 
 **Änderungsvorschlag?** :
 
-FIXME
+Ein maschinenlesbares Format definieren. 
 
 **Bemerkungen** :
 
-FIXME
-
+Das Formular ist sehr hübsch und optimiert für moderne Faxgeräte. Mit Blick auf alle halbwegs vernünftigen Digitalisierungstrategien ist die vorgeschlagene Revision jedoch nicht zu vereinen. 
