@@ -11,7 +11,7 @@
 
 3 Sie informieren die Stimmberechtigten allgemein verständlich über die Organisation, die Technik und das Verfahren der elektronischen Stimmabgabe. Sie zeigen, wie beim Auftreten von Problemen vorzugehen ist, und erklären, wie die Verifizierbarkeit funktioniert.
 
-4 Alle wichtigen behördlichen Vorgänge bei der Abwicklung eines Urnengangs mit der elektronischen Stimmabgabe ~~und die entsprechende Dokumentation~~ müssen einer Vertretung der Stimmberechtigten zugänglich sein. **Die entsprechende Dokumentation wird veröffentlicht.**
+4 Alle wichtigen behördlichen Vorgänge bei der Abwicklung eines Urnengangs mit der elektronischen Stimmabgabe ~~und die entsprechende Dokumentation~~ müssen einer Vertretung der Stimmberechtigten zugänglich sein. **Die Dokumentation aller wichtigen behördlichen Vorgänge wird veröffentlicht soweit die Veröffentlichung mit der sicheren Abwickung des Urnengangs vereinbar ist.**
 
 5 Die Kantone veröffentlichen bei eidgenössischen Wahlen und Abstimmungen die Ergebnisse der über den elektronischen Stimmkanal abgegebenen Stimmen. Das Stimmgeheimnis ist zu wahren.
 
