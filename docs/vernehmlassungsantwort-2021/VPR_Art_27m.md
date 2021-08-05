@@ -6,7 +6,7 @@
 
 1 Die Bundeskanzlei und die Kantone, die Versuche durchführen, sorgen für den Einbezug der Öffentlichkeit und der Fachkreise und setzen Anreize für die Mitwirkung.
 
-2 Die Kantone, die Versuche durchführen, machen die Funktionsweise und die Sicherheitseigenschaften des Systems der elektronischen Stimmabgabe sowie die wesentlichen betrieblichen Abläufe öffentlich bekannt. **Die legen die entsprechende Dokumentation offen, machen den Entwicklungsprozess transparent und veröffentlichen den Quellcode unter einer Open-Source Lizenz.** ~~Sie legen die entsprechende Dokumentation sowie den Quellcode der Software offen.~~
+2 Die Kantone, die Versuche durchführen, machen die Funktionsweise und die Sicherheitseigenschaften des Systems der elektronischen Stimmabgabe sowie die wesentlichen betrieblichen Abläufe öffentlich bekannt. **Sie legen die entsprechende Dokumentation offen, machen den Entwicklungsprozess transparent und veröffentlichen den Quellcode unter einer Open-Source Lizenz.** ~~Sie legen die entsprechende Dokumentation sowie den Quellcode der Software offen.~~
 
 
 3 Sie informieren die Stimmberechtigten allgemein verständlich über die Organisation, die Technik und das Verfahren der elektronischen Stimmabgabe. Sie zeigen, wie beim Auftreten von Problemen vorzugehen ist, und erklären, wie die Verifizierbarkeit funktioniert.
@@ -21,3 +21,4 @@
 
 4 Impliziert, dass die Dokumentation der Vorgänge einer Abstimmung nur einer Vertretung der Stimmberechtigten zugänglich sein müssen. Das ist nicht erwünscht. Diese Information muss öffentlich sein. 
 
+5 Der Hinweis auf das Stimmgeheimnis bei der Veröffentlichung der elektronischen Ergebnisse ist sinnvoll. Eventuell wäre es eine taugliche Umsetzung, die elektronischen Ergebnisse in einem Wahlkreis erst ab einer gewissen Zahl von elektronischen Stimmen separat auszuweisen.
