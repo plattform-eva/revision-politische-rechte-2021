@@ -8,5 +8,5 @@
 
 **Bemerkungen** :
 
--
+Wir begrüssen die Vereinfachung des Verfahrens.
 
