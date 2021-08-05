@@ -8,5 +8,5 @@
 
 **Bemerkungen** :
 
--
+Wir begrüssen den Zwang zur Plausibilisierung und die Zuweisung der Verantwortung an die Kantone.
 
