@@ -8,7 +8,7 @@ Das Gesuch um Akteneinsicht wurde am 01.06.2021 erneut bestätigt und die Dokume
 Die Files sind an folgenden Orten verfügbar: 
 * [Protokolle Steuerungsausschuss Vote Électronique](https://github.com/plattform-eva/revision-politische-rechte-2021/tree/main/docs/gesuche-um-akteneinsicht/steuerungsausschuss)
 * [Protokolle Unterarbeitsgruppe inkl. Beilagen](https://github.com/plattform-eva/revision-politische-rechte-2021/tree/main/docs/gesuche-um-akteneinsicht/unterarbeitsgruppe)
-* [Arbeitsrapport der BK](https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/gesuche-um-akteneinsicht/ArbeitsrapportBGÖGesuchChristian Killer20052021.pdf)
+* [Arbeitsrapport der BK](https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/gesuche-um-akteneinsicht/ArbeitsrapportBG%C3%96GesuchChristian%20Killer20052021.pdf)
 
 Der verrechnete Betrag von CHF 1000 wurde zu dritt durch Melchior Limacher, Christian Folini und Christian Killer bezahlt. 
 
