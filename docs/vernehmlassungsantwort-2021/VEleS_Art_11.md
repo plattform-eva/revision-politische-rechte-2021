@@ -6,7 +6,7 @@
 
 1 Der Kanton sorgt dafür, dass folgende Unterlagen offengelegt werden:
 
-a. der Quellcode der Software des Systems ~~einschliesslich der Dateien mit relevanten Parametern~~ **einschliesslich der detailierten Entwicklungsgeschichte (Commit-History)**;
+a. der Quellcode der Software des Systems ~~einschliesslich der Dateien mit relevanten Parametern~~ **einschliesslich der detaillierten Entwicklungsgeschichte (Commit-History)**;
 
 **a2. alle relevanten Konfigurationsparameter**
 
@@ -29,5 +29,6 @@ c. Dokumente, für die eine begründete Ausnahme von einer Publikation insbeso
 
 **Bemerkungen** :
 
-Wir monieren an anderer Stelle ausführlich, dass keine Offene Entwicklung unter einer Open Source Lizenz verordnet wird. 
+- Wir monieren an anderer Stelle ausführlich, dass keine Offene Entwicklung unter einer Open Source Lizenz verordnet wird. 
+- Die Definition von "Software" darf sich nicht nur auf kryptografische Implementierung beziehen. 
 
