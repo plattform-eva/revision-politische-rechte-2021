@@ -8,5 +8,5 @@
 
 **Bemerkungen** :
 
-1b impliziert zusammen mit "Art.2 Begriffe / a. System", dass die für E-Voting relevante Kantonale Infrastruktur ebenfalls Teil eines Bug-Bounty Programms sein muss. Wir begrüssen das. 
+1b impliziert zusammen mit "Art.2 Begriffe / a. System", dass die für E-Voting relevante Kantonale Infrastruktur ebenfalls im Scope eines Bug-Bounty Programms sein muss. Wir begrüssen das. 
 
