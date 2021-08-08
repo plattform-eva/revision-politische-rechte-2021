@@ -1,11 +1,12 @@
-**Nötig?** : Ja </br>
-**Tauglich?** : TODO </br>
-**Praktikabel?** : TODO </br>
+**Nötig?** : FIXME </br>
+**Tauglich?** : FIXME </br>
+**Praktikabel?** : FIXME </br>
 
 **Änderungsvorschlag?** :
 
--
+FIXME
 
 **Bemerkungen** :
 
-Hier besteht noch Diskussionsbedarf, [siehe](https://github.com/plattform-eva/revision-politische-rechte-2021/issues/24)
+FIXME
+
