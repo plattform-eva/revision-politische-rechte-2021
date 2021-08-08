@@ -1,12 +1,12 @@
-**Nötig?** : FIXME </br>
-**Tauglich?** : FIXME </br>
-**Praktikabel?** : FIXME </br>
+**Nötig?** : Ja </br>
+**Tauglich?** : Ja </br>
+**Praktikabel?** : Ja </br>
 
 **Änderungsvorschlag?** :
 
-FIXME
+-
 
 **Bemerkungen** :
 
-FIXME
+1b impliziert zusammen mit "Art.2 Begriffe / a. System", dass die für E-Voting relevante Kantonale Infrastruktur ebenfalls Teil eines Bug-Bounty Programms sein muss. Wir begrüssen das. 
 
