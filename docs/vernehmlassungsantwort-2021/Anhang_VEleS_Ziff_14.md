@@ -8,6 +8,6 @@
 
 **Bemerkungen** :
 
-Die Formulierung "von Internet erreichbar" ist nicht eindeutig. Im Extremfall würde das bedeuten, dass nur gerade die Applikationsserver regelmässig aktualisiert werden müssten. 
+Die Formulierung "von Internet erreichbar" ist nicht eindeutig. Im Extremfall würde das bedeuten, dass nur ein relativ kleiner Teil des Systems regelmässig aktualisiert werden müsste. 
 Wir empfehlen, dass im Grundsatz alle bekannten Schwachstellen zu eliminieren sind und Abweichungen davon begründet, dokumentiert und in der Risikoanalyse berücksichtigt werden müssen. 
 
