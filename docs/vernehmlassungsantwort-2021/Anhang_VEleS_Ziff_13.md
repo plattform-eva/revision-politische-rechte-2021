@@ -1,12 +1,16 @@
-**Nötig?** : FIXME </br>
-**Tauglich?** : FIXME </br>
-**Praktikabel?** : FIXME </br>
+**Nötig?** : Ja </br>
+**Tauglich?** : Nein </br>
+**Praktikabel?** : Ja </br>
 
 **Änderungsvorschlag?** :
 
-FIXME
+Zwei zusätzliche Risikoszenarien:
+
+- Angreifer schüren in der Öffentlichkeit Zweifel an der Korrektheit des Ergebnisses.
+- Angreifer manipulieren mittels physischem Zugang die Setup-Komponente.
+
 
 **Bemerkungen** :
 
-FIXME
+-
 
