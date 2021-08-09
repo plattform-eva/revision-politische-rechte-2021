@@ -1,12 +1,12 @@
-**Nötig?** : FIXME </br>
-**Tauglich?** : FIXME </br>
-**Praktikabel?** : FIXME </br>
+**Nötig?** : Ja </br>
+**Tauglich?** : Ja </br>
+**Praktikabel?** : Nein </br>
 
 **Änderungsvorschlag?** :
 
-FIXME
+-
 
 **Bemerkungen** :
 
-FIXME
+Es ist nicht klar, was 12.6 in der Praxis bedeutet. Die Post agiert als Systembetreiber und erhält mit den versandfertigen Abstimmungscouverts persönliche Daten aus dem Stimmregister.  
 
