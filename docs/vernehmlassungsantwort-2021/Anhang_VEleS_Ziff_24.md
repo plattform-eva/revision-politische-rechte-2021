@@ -9,7 +9,7 @@
 - Nachweise der erforderlichen Überprüfungen zur Einhaltung der Sicherheit;
 - die Teile, aus denen die Software besteht;
 - den Quellcode;
-- **die Commit-History**
+- **die Commit-History;**
 - Berichte über Sicherheitsmängel und über den Stand der Behebung. ~~Für jedes Element, das für Sicherheitsfunktionen relevant ist, wird die Entwicklerin oder der Entwickler genannt. Jedes Element wird eindeutig identifiziert.~~
 
 
