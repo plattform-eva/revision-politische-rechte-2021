@@ -9,5 +9,5 @@
 **Bemerkungen** :
 
 16.2 ist nicht erfüllbar und damit ersatzlos zu streichen.
-16.3 lässt mit der Formulierung "klar getrennt" zu viel Interpretationsspielraum. Es ist z.B. nicht eindeutig, ob eine separate Datenbank in einem konzernweit geteilten Datenbankcluster als "klar getrennt" von anderen Datenbanken betrachtet werden kann. 
+16.3 lässt mit der Formulierung "klar getrennt" zu viel Interpretationsspielraum. Es ist z.B. nicht eindeutig, ob eine separate Datenbank in einem Datenbankcluster als "klar getrennt" von anderen Datenbanken betrachtet werden kann. 
 
