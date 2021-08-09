@@ -15,5 +15,5 @@
 
 **Bemerkungen** :
 
-Für die Nachvollziehbarkeit einer Konfiguration ist die Commit-History von Bedeutung, weil dieser entnommen werden kann, wer in welcher Reihenfolge welche Änderungen aus welchem Grund vorgenommen hat. Elemente einzelnen Entwicklern zuzuordnen erachten wir als unpraktisch, weil dadurch die Resilienz des Entwicklungsteams geschwächt werden kann. 
+Für die Nachvollziehbarkeit einer Konfiguration ist die Commit-History von Bedeutung, weil dieser entnommen werden kann, wer in welcher Reihenfolge welche Änderungen aus welchem Grund vorgenommen hat. Elemente einzelnen Entwicklern zuzuordnen erachten wir als unpraktisch, weil dadurch die Resilienz des Entwicklungsteams geschwächt werden kann und weil diese eindeutige Zuordnung auf Dauer, etwa nach personellen Änderungen im Entwicklungsteam, nicht aufrecht erhalten werden kann. 
 
