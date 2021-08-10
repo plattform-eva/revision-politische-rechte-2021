@@ -1,5 +1,9 @@
-**Antwort** : FIXME Ja / Ja mit Vorbehalt / Nein
+**Antwort** : Ja mit Vorbehalt
 
 **Anmerkungen** :
 
-FIXME
+Wir begrüssen, dass die Relevanz von Transparenz und Public Scrunity erkannt wurde und recht breiten Eingang in die Verordnung gefunden hat.
+Wir bemängeln, dass eine offene Entwicklung und eine Publikation unter einer Open Source Lizenz keine Anforderungen sind an Systeme zur elektronischen Stimmabgabe. 
+Die Regulierung geht sehr weit in der genauen Spezifikation eines möglichst transparenten Entwicklungsprozesses. Leider ist beispielsweise die Commit-History nicht Teil der zu veröffentlichenden Dokumentation, was es deutlich erschwert, Änderungen oder Entwicklungsgeschichten von Komponenten nachzuvollziehen. Wir empfehlen, eine offene Entwicklung zu verordnen.
+Dass im Widerspruch zur Empfehlung der einbezogenen Expertengruppe keine Open Source Lizenz verordnet wird, wird  mittelfristig E-Voting in der Schweiz schwächen. Die Wichtigkeit von Public Scrunity wird zwar anerkannt, aber die Konsequenzen daraus wurden nicht gezogen. Wird das System nicht unter einer Open Source Lizenz entwickelt, wird kaum eine nachhaltige internationale Community um die Schweizer E-Voting Systeme entstehen. Teilnahme in einer E-Voting Community erfordert Interesse, Engagement und Fachkompetenz, Voraussetzungen also, die nur ein kleiner Teil der Bevölkerung mitbringt. Es scheint unwahrscheinlich, dass die Schweiz genügend freiwillige Fachkräfte aufbringen kann, um mittels Public Scrunity ein solides Sicherheitsniveau zu erreichen. Gelingt es, den Einzugsradius der Community auf weitere Teile der Welt auszuweiten, kann die Community um ein Vielfaches wachsen - und entsprechend die Sicherheit der E-Voting Systeme erhöhen. 
+Als Kompromiss könnte eine Übergangslösung gefunden werden, die es der Post ermöglicht, den Versuchsbetrieb mit lizenzbelasteten Komponenten wieder aufzunehmen und so über Kantonsbeiträge die Weiterentwicklung finanziell zu unterstützen. Klare Vorgabe müsste jedoch sein, dass innerhalb einer Übergangsfrist die lizenzbelasteten Komponenten durch Open Source Kompontenten ersetzt werden. 
