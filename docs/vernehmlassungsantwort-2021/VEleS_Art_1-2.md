@@ -1,12 +1,12 @@
 **Nötig?** : Ja </br>
-**Tauglich?** : Nein </br>
+**Tauglich?** : Nein (teilweise) </br>
 **Praktikabel?** : Ja </br>
 
 **Änderungsvorschlag?** :
 
-j. Software: **TODO**: Schwierig zu formulieren. Leider kann man kaum "ganzer involvierter Softwarestack" schreiben, weil manche Komponenten im Rahmen realistischer Budgets für E-Voting alleine nicht aufzutreiben sind.  
+Keiner
 
 **Bemerkungen** :
 
-Absatz j ist zu eng gefasst. Der Begriff Software sollte sich weiter als nur auf die kryptographische Software beziehen.
+Der Abschnitt "j. Software" ist deutlich zu eng gefasst. Nicht kryptographische Software muss eingeschlossen werden und auch Hilfssysteme sind einzubeziehen. Daneben sollte vermieden werden, dass untaugliche Teilsysteme von Extern übernommen werden, um sicher zu stellen, dass sie als externe Entwicklung nicht unter diese Definition fallen.
 
