@@ -8,5 +8,5 @@
 
 **Bemerkungen** :
 
--
+Zum Begriff "Vertraunswürdigkeit" siehe auch Bemerkungen zu Artikel 6.
 
