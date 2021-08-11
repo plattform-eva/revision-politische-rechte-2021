@@ -1,12 +1,12 @@
-**Nötig?** : FIXME </br>
-**Tauglich?** : FIXME </br>
-**Praktikabel?** : FIXME </br>
+**Nötig?** : Ja </br>
+**Tauglich?** : Ja </br>
+**Praktikabel?** : Ja </br>
 
 **Änderungsvorschlag?** :
 
-FIXME
+Nach einer Bereinigung der Begriffe 2.12.11 "Werden Stimmdaten importiert, so ist eine Setup-Komponente ..." ersatzlos streichen.
 
 **Bemerkungen** :
 
-FIXME
+Der Begriff der Setup-Komponente ist irreführend. Der Umstand, dass für das Setup der Wahl und für die Auswertung der Wahl die gleiche Quellcode-Grundlage (Secure Data Manager im Fall des Post/Scytl-Systems) verwendet wird, darf nicht dazu führen, dass man diese beiden fundamental verschiedenen Aufgaben in der Regulierung oder Spezifikation vermischt.
 
