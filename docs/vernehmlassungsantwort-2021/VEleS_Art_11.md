@@ -6,7 +6,7 @@
 
 1 Der Kanton sorgt dafür, dass folgende Unterlagen offengelegt werden:
 
-a. der Quellcode der Software des Systems ~~einschliesslich der Dateien mit relevanten Parametern~~ **einschliesslich der detaillierten Entwicklungsgeschichte (Commit-History)**;
+a. der Quellcode der Software des Systems ~~einschliesslich der Dateien mit relevanten Parametern~~ **unter eine Open Source Lizenz. Die Publikation schliesst die detaillierten Entwicklungsgeschichte (Commit-History) mit ein.**;
 
 **a2. alle relevanten Konfigurationsparameter**
 
@@ -16,7 +16,7 @@ c. Anleitungen und ergänzende Dokumentationen, die fachkundige Personen benöti
 
 d. die Dokumentation der Prozesse für den Betrieb, die Wartung und die Sicherung des Systems;
 
-e. Informationen und Beschreibungen zu bekannten Mängeln.
+e. Informationen und Beschreibungen zu bekannten Mängeln, **namentlich Berichte zu Penetration Tests**.
 
 
 2 Nicht offengelegt werden müssen:
@@ -25,10 +25,13 @@ a. der Quellcode von Drittkomponenten wie Betriebssystemen, Datenbanken, Web- un
 
 b. der Quellcode von Behördenportalen, die mit dem System verbunden sind;
 
-c. Dokumente, für die eine begründete Ausnahme von einer Publikation insbesondere gestützt auf das Öffentlichkeits- oder das Datenschutzrecht vorliegt
+c. Dokumente, für die eine begründete Ausnahme von einer Publikation insbesondere gestützt auf das Öffentlichkeits- oder das Datenschutzrecht vorliegt.
 
 **Bemerkungen** :
 
-- Wir monieren an anderer Stelle ausführlich, dass keine Offene Entwicklung unter einer Open Source Lizenz verordnet wird. 
-- Die Definition von "Software" darf sich nicht nur auf kryptografische Implementierung beziehen. 
+* Der Dialog mit der Wissenschaft hat eine deutliche Empfehlung für eine Publikation des Source Codes unter einer Open Source Lizenz abgegeben. Dies darf nicht übergangen werden. Zumal im begleitenden Bericht keinerlei Begründung hiefür angegeben wird.
+
+* Entscheidet sich die Bundeskanzlei wirklich dafür, keine Open Source Lizenz zu verlangen, dann sollte aber zumindest die komplette Commit History eingefordert werden. Damit lassen sich die folgenden Fragen diskutieren: Welche Accounts haben wann, in welchem Rhythmus, welche Code-Teile verändert. Gibt es Korrekturen, Nachbesserungen, welche Accounts arbeiten in weilen Bereichen des Codes, wieviele Accounts sind beteiligt, etc. Diese Informationen erlauben es der interessierten Öffentlichkeit, die Qualität des Entwicklungsprozesses besser zu beurteilen.
+
+* Die Definition von "Software" darf sich nicht nur auf kryptografische Implementierung beziehen. 
 
