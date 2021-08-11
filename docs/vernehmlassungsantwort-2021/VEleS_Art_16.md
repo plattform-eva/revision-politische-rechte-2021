@@ -8,5 +8,5 @@
 
 **Bemerkungen** :
 
-Es fehlen Belege für eine aktive Community, welche den Source Code untersucht hat resp. Belege dafür, dass Public Scrutiny tatsächlich spielt. Sollten sich solche Belege nicht beibringen lassen, dann sollten zumindest Belege eingefordert für den redlichen Versuch, eine Community für Public Scrutiny aufzubauen.
+Es fehlen Belege für eine aktive Community, welche den Source Code untersucht hat resp. Belege dafür, dass Public Scrutiny tatsächlich spielt. Sollten sich solche Belege nicht beibringen lassen, dann sollten zumindest dafür Belege eingefordert werden, dass es einen redlichen Versuch gab, eine Community für Public Scrutiny aufzubauen.
 
