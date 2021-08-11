@@ -4,7 +4,7 @@
 
 **Änderungsvorschlag?** :
 
-Nach einer Bereinigung der Begriffe 2.12.11 "Werden Stimmdaten importiert, so ist eine Setup-Komponente ..." ersatzlos streichen.
+Nach einer Bereinigung der Begriffsbestimmungen in Artikel 1 sollte 2.12.11 "Werden Stimmdaten importiert, so ist eine Setup-Komponente ..." ersatzlos gestrichen werden.
 
 **Bemerkungen** :
 
