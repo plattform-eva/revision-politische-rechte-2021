@@ -1,6 +1,6 @@
 **Nötig?** : Ja </br>
 **Tauglich?** : Nein </br>
-**Praktikabel?** : Nein </br>
+**Praktikabel?** : Ja </br>
 
 **Änderungsvorschlag?** :
 
@@ -8,5 +8,4 @@
 
 **Bemerkungen** :
 
-**TODO**: Ok?
-
+-
