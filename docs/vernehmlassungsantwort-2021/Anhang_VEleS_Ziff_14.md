@@ -4,7 +4,7 @@
 
 **Änderungsvorschlag?** :
 
-14.10 Durch einen vorgegebenen und dokumentierten Prozess werden ~~die~~ **alle** Teile des Systems~~, die vom Internet erreichbar sind,~~ regelmässig aktualisiert, um bekanntgewordene Schwachstellen zu eliminieren.
+14.10 Durch einen vorgegebenen und dokumentierten Prozess werden ~~die~~ **alle** Teile des Systems ~~, die vom Internet erreichbar sind,~~ regelmässig aktualisiert, um bekanntgewordene Schwachstellen zu eliminieren.
 
 **Bemerkungen** :
 
