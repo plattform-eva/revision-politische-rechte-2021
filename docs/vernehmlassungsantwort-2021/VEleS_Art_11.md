@@ -8,8 +8,6 @@
 
 a. der Quellcode der Software des Systems ~~einschliesslich der Dateien mit relevanten Parametern~~ **unter einer Open Source Lizenz. Die Publikation schliesst die detaillierte Entwicklungsgeschichte (Commit-History) sowie die Dateien mit relevanten Parametern mit ein.**;
 
-**a2. alle relevanten Konfigurationsparameter**
-
 b. die Dokumentation der Software;
 
 c. Anleitungen und ergänzende Dokumentationen, die fachkundige Personen benötigen, um das System in der eigenen Infrastruktur kompilieren, in Betrieb nehmen und analysieren zu können;
