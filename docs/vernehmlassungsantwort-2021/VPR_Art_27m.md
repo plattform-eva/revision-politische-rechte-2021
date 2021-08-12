@@ -17,7 +17,7 @@
 
 **Bemerkungen** :
 
-2 "Public Scrunity" erfordert eine transparente Entwicklung (inkl. Commit-History) und Engagement einer grossen Community. Mit einer Open-Source Lizenz wird die Wahrscheinlichkeit grösser, dass andere Länder Schweizer E-Voting Quellcode ebenfalls einsetzen. Demzufolge würde mit einer Open-Source Lizenz die Community um das Schweizer System grösser und somit das System sicherer. Es zeichnet sich bereits jetzt ab, dass der Aufbau einer Community sehr herausfordernd - wenn nicht gar einer der grössten Knackpunkte für ein sicheres E-Voting - sein wird. Folglich sollte alles unternommen werden, um diesem Schwachpunkt zu begegnen. 
+2 "Public Scrutiny" erfordert eine transparente Entwicklung (inkl. Commit-History) und Engagement einer grossen Community. Mit einer Open-Source Lizenz wird die Wahrscheinlichkeit grösser, dass andere Länder Schweizer E-Voting Quellcode ebenfalls einsetzen. Demzufolge würde mit einer Open-Source Lizenz die Community um das Schweizer System grösser und somit das System sicherer. Es zeichnet sich bereits jetzt ab, dass der Aufbau einer Community sehr herausfordernd - wenn nicht gar einer der grössten Knackpunkte für ein sicheres E-Voting - sein wird. Folglich sollte alles unternommen werden, um diesem Schwachpunkt zu begegnen. 
 
 4 Impliziert, dass die Dokumentation der Vorgänge einer Abstimmung nur einer Vertretung der Stimmberechtigten zugänglich sein müssen. Das ist nicht erwünscht. Diese Information muss öffentlich sein. 
 
