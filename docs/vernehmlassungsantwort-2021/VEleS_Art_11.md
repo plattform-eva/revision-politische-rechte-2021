@@ -6,7 +6,7 @@
 
 1 Der Kanton sorgt dafür, dass folgende Unterlagen offengelegt werden:
 
-a. der Quellcode der Software des Systems ~~einschliesslich der Dateien mit relevanten Parametern~~ **unter eine Open Source Lizenz. Die Publikation schliesst die detaillierten Entwicklungsgeschichte (Commit-History) sowie die Dateien mit relevanten Parametern mit ein.**;
+a. der Quellcode der Software des Systems ~~einschliesslich der Dateien mit relevanten Parametern~~ **unter einer Open Source Lizenz. Die Publikation schliesst die detaillierte Entwicklungsgeschichte (Commit-History) sowie die Dateien mit relevanten Parametern mit ein.**;
 
 **a2. alle relevanten Konfigurationsparameter**
 
