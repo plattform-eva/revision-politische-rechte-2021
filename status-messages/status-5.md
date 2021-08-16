@@ -7,7 +7,7 @@ Nachdem wir vor einigen Wochen endlich die Akten zum Vernehmlassungsverfahren er
 
 Unsere Antwort zu Handen Bundesrat und Bundeskanzler findet sich hier:
 
-* (https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/vernehmlassungsantwort-2021/pdf/Vernehmlassungsantwort_IsA-v1.pdf)
+* https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/vernehmlassungsantwort-2021/pdf/Vernehmlassungsantwort_IsA-v1.pdf
 
 Wir werden diese Antwort am Mittwoch, den 18. August, einreichen. Bis dahin werden wir noch etwas an den Formulierungen feilen, Schreibfehler korrigieren - und hoffentlich weitere Namen darunter setzen.
 
