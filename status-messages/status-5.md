@@ -17,22 +17,17 @@ Neben Kantonen, Parteien und den grossen Verbänden sind wir als Security Commun
 
 Die volle Antwort gliedert sich in einen knappen Begleitbrief und einen ausgefüllten Fragebogen. Im knappen Begleitbrief monieren wir die folgenden drei Punkte, im Fragebogen führen wir das und weitere weniger wichtige Themen detailliert aus:
 
-https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/vernehmlassungsantwo
-rt-2021/pdf/Vernehmlassungsantwort_IsA-v1.pdf
 
-https://github.com/plattform-eva/revision-politische-rechte-2021/blob/main/docs/vernehmlassungsantwo
-rt-2021/pdf/Vernehmlassungsantwort_IsA-v1.pdf
-
-• Open-Source muss gesetzlich verankert werden. Das schliesst auch einen offenen
+• **Open-Source** muss gesetzlich verankert werden. Das schliesst auch einen offenen
   Entwicklungsprozess inkl. Publikation der Commit-History ein. Langfristig führt
   unserer Meinung nach kein Weg an Open-Source vorbei, um in der Gesellschaft
   Vertrauen in die elektronische Stimmabgabe wachsen zu lassen.
 
-• Der Anhang zur VEleS kümmert sich in gewissen Punkten um ausgesprochen
+• **Der Anhang** zur VEleS kümmert sich in gewissen Punkten um ausgesprochen
   implementationsspezifische Fragen, lässt jedoch wichtige Makro-Sichtweisen ausser
   Acht. Eine Nivellierung oder eventuell auch Glättung erscheint uns hier von Vorteil.
 
-• Die Klarheit der Terminologie sollte verbessert werden. Der Artikel 2 der VEleS 
+• **Die Klarheit der Terminologie** sollte verbessert werden. Der Artikel 2 der VEleS 
   erfüllt seinen Zweck noch nicht und könnte sich als Achillesverse nicht nur für
   die Regulierung, sondern für die elektronische Stimmabgabe als Ganzes erweisen.
 
@@ -50,9 +45,9 @@ Kernmitglieder unserer Gruppe:
 * Christian Killer: christiankiller at hush dot com
 * Melchior Limacher: melchior at limafast dot ch
 
-## Teil 2: Die Unterschrift Deiner Bekannten
+## Teil 2: Die Unterschrift deiner Bekannten
 
-* Bitte den Tweet FIXME retweeten
+* Bitte den [Tweet](https://twitter.com/plattform_eva/status/1427196763199377413) retweeten
 * Allenfalls weitere Posts auf FB / LinkedIn / Mails und Nachrichten an Kollegen und Kolleginnen mit Link auf diese Nachricht hier.
 
 Christian Folini für das Plattform EVA Kernteam
