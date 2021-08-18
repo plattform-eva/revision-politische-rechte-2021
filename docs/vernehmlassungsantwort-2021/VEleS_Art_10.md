@@ -12,5 +12,5 @@ Ziffer 2 kann ersatzlos gestrichen werden. Die Prüfungen im Auftrag der Bundesk
 
 Es ist nicht klar, weshalb das ISMS des Systembetreibers durch den Kanton, der Rest des Betriebes aber durch den Bund zu prüfen ist.
 
-Absatz 4 sollte strenger formuliert werden. Es darf nicht genügen, lediglich einen Beleg für eine erfolgte Prüfung zu publizieren, da ein solcher Beleg wenig aussagt über die qualitativen Ergebnisse einer Überprüfung. Bekanntlich schaffte es die Post, den KPMG Prüfbericht vor der Bundeskanzlei und der Öffentlichkeit geheim zu halten. Dies darf sich nicht wiederholen.
+Absatz 4 sollte strenger formuliert werden. Es darf nicht genügen, lediglich einen Beleg für eine erfolgte Prüfung zu publizieren, da ein solcher Beleg wenig aussagt über die qualitativen Ergebnisse einer Überprüfung. Bekanntlich schaffte es die Post, den KPMG Prüfbericht zur erfolgten Zertifizierung vor der Bundeskanzlei und der Öffentlichkeit geheim zu halten. Dies darf sich nicht wiederholen.
 

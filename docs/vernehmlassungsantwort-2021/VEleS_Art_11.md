@@ -29,7 +29,7 @@ c. Dokumente, für die eine begründete Ausnahme von einer Publikation insbeso
 
 * Der Dialog mit der Wissenschaft hat eine deutliche Empfehlung für eine Publikation des Source Codes unter einer Open Source Lizenz abgegeben. Dies darf nicht übergangen werden. Zumal im begleitenden Bericht keinerlei Begründung hiefür angegeben wird.
 
-* Entscheidet sich die Bundeskanzlei wirklich dafür, keine Open Source Lizenz zu verlangen, dann sollte aber zumindest die komplette Commit History eingefordert werden. Damit lassen sich die folgenden Fragen diskutieren: Welche Accounts haben wann, in welchem Rhythmus, welche Code-Teile verändert. Gibt es Korrekturen, Nachbesserungen, welche Accounts arbeiten in weilen Bereichen des Codes, wieviele Accounts sind beteiligt, etc. Diese Informationen erlauben es der interessierten Öffentlichkeit, die Qualität des Entwicklungsprozesses besser zu beurteilen.
+* Entscheidet sich die Bundeskanzlei wirklich dafür, keine Open Source Lizenz zu verlangen, dann sollte zumindest die komplette Commit-History eingefordert werden. Damit lassen sich die folgenden Fragen diskutieren: Welche Accounts haben wann, in welchem Rhythmus, welche Code-Teile verändert. Gibt es Korrekturen, Nachbesserungen, welche Accounts arbeiten in weilen Bereichen des Codes, wieviele Accounts sind beteiligt, etc. Diese Informationen erlauben es der interessierten Öffentlichkeit, die Qualität des Entwicklungsprozesses besser zu beurteilen.
 
-* Die Definition von "Software" darf sich nicht nur auf kryptografische Implementierung beziehen. 
+* Die Definition von "Software" darf sich nicht nur auf die kryptografische Implementierung beziehen. 
 

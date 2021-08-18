@@ -9,7 +9,7 @@ Online-Systems **und Offline-Systems** einzudringen und sich Zugang zu wichtigen
 
 **Bemerkungen** :
 
-OWASP sollte in diesem Kontext nicht zitiert werden, da ein Infrastruktur-Penetrationtest weit über die Prüfung von Web-Applikationen hinausgeht. Die Webapplikation des Online-Systems neben dem Bugbounty einem zusätzlichen Penetration-Test zu unterziehen, würde kaum relevante neue Erkenntnisse bringen und wäre daher unnötige Geldverschwendung. 
-Es sollten stattdessen möglichst methodenagnostische Red-Teaming Übungen durchgeführt werden, mit Phishing, lateralen Bewegungen und physischen Zugangsversuchen im Scope. 
+OWASP sollte in diesem Kontext nicht zitiert werden, da ein Infrastruktur-Penetrationtest weit über die Prüfung von Web-Applikationen hinausgeht und OWASP nicht zwingend und auf Dauer die richtige Quelle für diese Informationen ist. 
+Es sollten neben dem Bug Bounty möglichst methodenagnostische Red-Teaming Übungen durchgeführt werden, mit Phishing, lateralen Bewegungen und physischen Zugangsversuchen im Scope. 
 Aufgrund der Kritikalität des Offline-Systems ist ausserdem wünschenswert, dass ein solcher Test auch bei diesem durchgeführt wird. Allenfalls müsste die Beauftragung im letzteren Fall durch den Kanton erfolgen.  
 

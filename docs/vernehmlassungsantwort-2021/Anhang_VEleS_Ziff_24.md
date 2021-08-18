@@ -10,12 +10,12 @@
 - die Teile, aus denen die Software besteht;
 - den Quellcode;
 - **die Commit-History;**
-- Berichte über Sicherheitsmängel und über den Stand der Behebung. ~~Für jedes Element, das für Sicherheitsfunktionen relevant ist, wird die Entwicklerin oder der Entwickler genannt. Jedes Element wird eindeutig identifiziert.~~
+- Berichte über Sicherheitsmängel und über den Stand der Behebung. ~~Für jedes Element, das für Sicherheitsfunktionen relevant ist, wird die Entwicklerin oder der Entwickler genannt.~~ Jedes Element wird eindeutig identifiziert.
 
 
 **Bemerkungen** :
 
-Für die Nachvollziehbarkeit einer Konfiguration ist die Commit-History von Bedeutung, weil dieser entnommen werden kann, wer in welcher Reihenfolge welche Änderungen aus welchem Grund vorgenommen hat. 
+Für die Nachvollziehbarkeit einer Konfiguration ist die Commit-History von Bedeutung, weil dieser entnommen werden kann, wer in welcher Reihenfolge welche Änderungen aus welchem Grund vorgenommen hat. Darüber hinaus verrät die Commit-History sehr viel über den Entwicklungsprozess und seine praktische Umsetzung.
 
-Elemente einzelnen Entwicklern zuzuordnen erachten wir als unpraktisch, weil dadurch die Resilienz des Entwicklungsteams geschwächt werden kann und weil diese eindeutige Zuordnung auf Dauer, etwa nach personellen Änderungen im Entwicklungsteam, nicht aufrecht erhalten werden kann. 
+Elemente einzelnen Entwicklern zuzuordnen erachten wir als sehr problematisch, weil dadurch die Resilienz des Entwicklungsteams geschwächt werden kann und weil diese eindeutige Zuordnung auf Dauer, etwa nach personellen Änderungen im Entwicklungsteam, nicht aufrecht erhalten werden kann. 
 

@@ -20,5 +20,7 @@ f. keine missbräuchliche Verwendung von Beweisen zum Stimmverhalten.
 
 **Bemerkungen** :
 
+Die Vorlagen arbeiten verschiedentlich mit dem Begriff "Manipulation". Aus technischer Sicht sind "Vertraulichkeit" und "Integrität" vorzuziehen, da sie klarer definiert und deshalb gebräuchlicher sind.
+
 Artikel 4 Abs 1: Der Einbezug von Vertrauen und Akzeptanz der Öffentlichkeit ist sinnvoll. Es ist unklar, ob sich über diesen Absatz eine Bewilligung aufgrund fehlender Vertrauen und Akzeptanz in einem bestimmten Einzelkanton verweigern liesse. Wenn das nicht möglich ist, dann lässt dieser Abschnitt hier Fehlschlüsse zu und wenn es möglich sein soll, dann wäre das klar zu schreiben oder noch besser aus dem kantonalen Kontext herauszunehmen, da es sich dabei eher um eine nationale Frage handelt.
 
